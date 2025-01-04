@@ -14,15 +14,15 @@ Please see my LinkedIn profile here: https://www.linkedin.com/in/balazshidasi/
 7.	Feedback & Contact
 
 
-
+_________________________________________________________________________________________________
 **ABOUT THE PROJECT**
 
 This project is about exploring AI application possibilities in the Financial industry. It aims to serve as a space for experimentation, development, and sharing of AI-driven applications relevant to banking and trading.
-
+_________________________________________________________________________________________________
 **MOTIVATION & MISSION** 
 
 AI is transforming industries. I believe significant value can be created in the Financial sector by applying AI approaches ultimately benefiting society as a whole. My mission is to be part of this journey by exploring, building, and sharing AI ideas in the finance domain.   
-
+_________________________________________________________________________________________________
 **FOCUS AREAS**
 
 I have currently two fields of interest in applying AI-based methodologies:
@@ -30,7 +30,7 @@ I have currently two fields of interest in applying AI-based methodologies:
 - Use cases in Trading: exploring algorithmic trading strategies and high-frequency trading applications.
   
 - Use cases in Banking: focusing on AI-agent applications in functions like risk management, business, compliance, data management. 
-
+_________________________________________________________________________________________________
 **KEY PRINCIPLES**
 
 The key principles I aim to follow throughout the projects are the following:
@@ -41,28 +41,28 @@ The key principles I aim to follow throughout the projects are the following:
   
 - Transparency.
   
-
+_________________________________________________________________________________________________
 **TECHNOLOGIES & TOOLS**
 
 These projects currently aim to utilize the following AI-based infrastructure: 
 
--Frameworks like TensorFlow and Pytorch, 
+- Frameworks like TensorFlow and Pytorch, 
 
--Models such as Reinforcement Learning and Transformers, 
+- Models such as Reinforcement Learning and Transformers, 
 
--AI agent building platforms, most notably Lang Chain and Hugging Face, 
+- AI agent building platforms, most notably Lang Chain and Hugging Face, 
 
--Coding language is Python. 
+- Coding language is Python. 
 
 More detailed descriptions are available for the given projects in the respective folders. 
 
-
+_________________________________________________________________________________________________
 **PROJECT STATUS**
 
--Current status: work in progress with some initial experimental versions already available. 
+- Current status: work in progress with some initial experimental versions already available. 
 
--Plans: keep enhancing the existing models, validate approaches, and expand the range of use cases over time. 
-
+- Plans: keep enhancing the existing models, validate approaches, and expand the range of use cases over time. 
+_________________________________________________________________________________________________
 **FEEDBACK & CONTACT**
 
 Feedback is essential for making progress. Please feel free to contact me either here on GitHub or on LinkedIn should you have any ideas, improvement potentials or suggestions. I’m also happy to connect to discuss topics like AI applications in the Banking industry, future of AI in Fintech, robotics, real world use cases and the like. I’m looking forward to collaborating with you. 
