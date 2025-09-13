@@ -1,0 +1,56 @@
+{
+  "task_type": "classification",
+  "num_classes": 3,
+  "class_names": [
+    "Buy",
+    "Hold",
+    "Sell"
+  ],
+  "training_time_minutes": 564.6452062765758,
+  "total_steps": 795,
+  "final_metrics": {
+    "train_runtime": 33878.292,
+    "train_samples_per_second": 0.376,
+    "train_steps_per_second": 0.023,
+    "total_flos": 4.1355307060494336e+17,
+    "train_loss": 1.1025895700514692,
+    "epoch": 0.9993714644877436
+  },
+  "validation_used": true,
+  "weighted_loss_used": true,
+  "class_weights": [
+    1.152,
+    0.79,
+    1.156
+  ],
+  "early_stopping_triggered": false,
+  "model_path": "/content/llama-8b-trading-lora",
+  "timestamp": "2025-08-25T04:06:50.955924",
+  "class_distribution": {
+    "2": 3672,
+    "1": 5372,
+    "0": 3685
+  },
+  "final_validation_metrics": {
+    "eval_loss": 0.8636670708656311,
+    "eval_accuracy": 0.5865869017632241,
+    "eval_f1": 0.5862593967667192,
+    "eval_precision": 0.6015408296676867,
+    "eval_recall": 0.5865869017632241,
+    "eval_f1_buy": 0.5712643678160919,
+    "eval_f1_hold": 0.5923488276429453,
+    "eval_f1_sell": 0.5923888124713435,
+    "eval_precision_buy": 0.6053593179049939,
+    "eval_precision_hold": 0.6611570247933884,
+    "eval_precision_sell": 0.5102685624012638,
+    "eval_recall_buy": 0.5408052230685527,
+    "eval_recall_hold": 0.5365126676602087,
+    "eval_recall_sell": 0.7060109289617487,
+    "eval_runtime": 1608.0811,
+    "eval_samples_per_second": 1.979,
+    "eval_steps_per_second": 0.247,
+    "epoch": 0.9993714644877436
+  },
+  "best_f1_score": 0.5862593967667192,
+  "final_f1_score": 0.5862593967667192
+}
