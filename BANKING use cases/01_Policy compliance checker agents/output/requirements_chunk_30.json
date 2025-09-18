@@ -1,0 +1,74 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions are to analyse whether the inclusion of the most recent data leads to a significant change in the long-run average default rate, and whether this leads to materially different risk estimates.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Chapter 9",
+    "keywords": [
+      "data analysis",
+      "default rate",
+      "risk estimates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "at least annually",
+    "applies_to": "Institutions",
+    "chunk_id": 30,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3fd81bc0"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Whenever institutions apply portfolio calibration, they should perform additional calibration tests at the grade or pool level, and whenever they perform grade or pool calibration, they should perform additional calibration tests at the portfolio level (or, more specifically, at the level of the relevant calibration segment).",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "section 5.3.5",
+    "keywords": [
+      "portfolio calibration",
+      "grade calibration",
+      "calibration tests"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 30,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bcfc5b0e"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Institutions are required to assess the potential effect of the chosen calibration method on the behaviour of PD estimates over time.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "section 5.3.5",
+    "keywords": [
+      "calibration method",
+      "PD estimates",
+      "assessment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 30,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "28b60317"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Where institutions use different rating systems characterised by different rating philosophies, different levels of objectivity, accuracy, stability or conservatism, they ensure that the rating systems have an appropriate level of consistency and that any differences between them are well understood, such that they are able to define an appropriate way of combining or aggregating the information produced by the different rating systems when this is necessary.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 79",
+    "keywords": [
+      "rating systems",
+      "consistency",
+      "information aggregation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 30,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "257955c0"
+  }
+]

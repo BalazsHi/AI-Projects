@@ -1,0 +1,96 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Competent authorities and financial institutions must make every effort to comply with the guidelines.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 47, paragraph 1",
+    "keywords": [
+      "compliance",
+      "guidelines"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Competent authorities and financial institutions",
+    "chunk_id": 14,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c6bae30e"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Competent authorities should comply by incorporating them into their practices as appropriate (e.g. by amending their legal framework or their supervisory processes), including where guidelines are directed primarily at institutions.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 47, paragraph 2",
+    "keywords": [
+      "compliance",
+      "practices",
+      "legal framework",
+      "supervisory processes"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Competent authorities",
+    "chunk_id": 14,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "53262065"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise give reasons for non-compliance, by ([dd.mm.yyyy]).",
+    "category": "reporting",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 47, paragraph 3",
+    "keywords": [
+      "notify",
+      "EBA",
+      "compliance",
+      "non-compliance",
+      "reporting"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "([dd.mm.yyyy])",
+    "applies_to": "Competent authorities",
+    "chunk_id": 14,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1b17a35a"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Notifications should be sent by submitting the form available on the EBA website to compliance@eba.europa.eu with the reference ‘EBA/GL/201 x/xx’.",
+    "category": "reporting",
+    "priority": "medium",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 47, paragraph 3",
+    "keywords": [
+      "notifications",
+      "EBA website",
+      "compliance",
+      "reporting"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Competent authorities",
+    "chunk_id": 14,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "886ba6e2"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "Any change in the status of compliance must also be reported to the EBA.",
+    "category": "reporting",
+    "priority": "medium",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 47, paragraph 3",
+    "keywords": [
+      "change",
+      "compliance",
+      "reported",
+      "EBA"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Competent authorities",
+    "chunk_id": 14,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "962d9755"
+  }
+]

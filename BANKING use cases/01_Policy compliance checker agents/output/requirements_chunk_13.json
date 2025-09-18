@@ -1,0 +1,37 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions are required to define a cycle for a fundamental review of models depending on the materiality of the models considered.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Chapter 9",
+    "keywords": [
+      "fundamental review",
+      "models",
+      "materiality"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 13,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d3a48fed"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The review of estimates is required when new information comes to light, and at least on an annual basis.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Chapter 9",
+    "keywords": [
+      "review of estimates",
+      "annual basis"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "Annually",
+    "applies_to": "Institutions",
+    "chunk_id": 13,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ee0c2704"
+  }
+]

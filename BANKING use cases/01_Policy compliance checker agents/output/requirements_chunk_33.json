@@ -1,0 +1,434 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should define the maximum period of the recovery process for a given type of exposures from the moment of default taking into account the period of time, observed in closed recovery processes, during which the institution realises the vast majority of recoveries.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "maximum period",
+      "recovery process",
+      "default",
+      "recoveries"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e9b3ec15",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ002",
+    "requirement": "CAs should ensure that the concept of the maximum length of the recovery process is not misused and that the lengths specified by institutions are not excessively long for a specific type of exposures.",
+    "category": "risk_management|credit_risk|compliance",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "maximum length",
+      "recovery process",
+      "misused",
+      "excessively long"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "CAs",
+    "chunk_id": "33_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "fd26cf50",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ003",
+    "requirement": "The CRR requirement that all observed defaults have to be taken into account applies to all LGD models under the IRB Approach, and hence no data exclusions are possible in the calculation of long-run average LGD.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "observed defaults",
+      "LGD models",
+      "IRB Approach",
+      "data exclusions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions using IRB Approach",
+    "chunk_id": "33_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c687d44c",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ004",
+    "requirement": "In the case of low-default portfolios the minimum requirements have to be met in order to receive permission to use the IRB Approach, and the CRR does not envisage any exemptions from these requirements for such portfolios.",
+    "category": "risk_management|credit_risk|capital_adequacy",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "low-default portfolios",
+      "minimum requirements",
+      "IRB Approach",
+      "exemptions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions with low-default portfolios",
+    "chunk_id": "33_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "cedbdde8",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should be aware of the sources of cash flows in order to be able to choose the most appropriate estimation methodology and relevant risk drivers.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "Section 6.6",
+    "keywords": [
+      "cash flows",
+      "estimation methodology",
+      "risk drivers"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "33_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "114181ec",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "In the calibration of LGD, in particular in the calculation of long-run average LGD, all observed defaults have to be used.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "LGD",
+      "calibration",
+      "defaults"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions calculating LGD",
+    "chunk_id": "33_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3b648b3a",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Realised LGD has to be calculated for each observation, i.e. each defaulted facility.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "LGD",
+      "calculation",
+      "defaulted facility"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions calculating LGD",
+    "chunk_id": "33_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "81e95b98",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ003",
+    "requirement": "However, any recoveries from collaterals covering several exposures have to be allocated to specific facilities in order to allow the calculation of realised LGD.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "recoveries",
+      "collaterals",
+      "LGD",
+      "allocation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions calculating LGD",
+    "chunk_id": "33_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0fd32406",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should make a reasonable effort to obtain the required information.",
+    "category": "operational",
+    "priority": "medium",
+    "reference": "GL",
+    "keywords": [
+      "information",
+      "effort",
+      "obtain"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7c015601",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions that estimate their own LGDs may use credit risk mitigation in accordance with Chapter 3.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Article 108(2) of the CRR",
+    "keywords": [
+      "LGD",
+      "credit risk mitigation",
+      "Chapter 3"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions that estimate their own LGDs",
+    "chunk_id": "33_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2e9a9a55",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ003",
+    "requirement": "All collateral that meets the requirements of Article 181(1)(f) of the CRR are considered eligible to be recognised in own LGD estimates.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Article 108(2) of the CRR",
+    "keywords": [
+      "collateral",
+      "eligible",
+      "LGD estimates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "148117ee",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should also monitor the extent of use of such collateral over time in order to avoid any bias.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "GL",
+    "keywords": [
+      "collateral",
+      "monitoring",
+      "bias"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "665dc0fe",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Collateral that does not meet the requirements of Article 181(1)(f) of the CRR cannot be included in the LGD model as a risk driver.",
+    "category": "risk_management|credit_risk|capital_adequacy",
+    "priority": "high",
+    "reference": "Article 181(1)(f) of the CRR",
+    "keywords": [
+      "collateral",
+      "LGD model",
+      "risk driver"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5ed2d3d3",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Increased time to recovery will influence the relevant recovery rates but cannot be used as a risk driver in the application of LGD.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "GL",
+    "keywords": [
+      "time to recovery",
+      "recovery rates",
+      "risk driver",
+      "LGD"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3f3f335a",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ004",
+    "requirement": "In any case, the estimation methodology should be consistent with the institution’s collection and recovery policies.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "estimation methodology",
+      "collection",
+      "recovery policies"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "33_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ff077012",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ001",
+    "requirement": "it is required that the LGD estimation methodology is consistent with the collection and recovery policies of the institution.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "LGD",
+      "estimation methodology",
+      "collection",
+      "recovery policies",
+      "institution"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "33_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "358680a3",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Expected significant decreases in the value of collateral should be reflected in the LGD estimates.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "LGD",
+      "collateral",
+      "decreases",
+      "estimates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "33_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "42844778",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ001",
+    "requirement": "In the application of LGD, LGD in-default and ELBE, the most up-to-date value of collateral should be used.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "LGD",
+      "collateral",
+      "ELBE",
+      "application"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "33_SUB8",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "296a27a1",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 8
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The best estimate of LGD based on the long-run average LGD should not explicitly reflect the impact of adverse economic conditions.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "GL specify principles",
+    "keywords": [
+      "LGD",
+      "economic conditions",
+      "estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "33_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f8886e51",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Information on the sale prices should still be collected and used for the purpose of back-testing haircuts in order to make sure that they appropriately reflect the uncertainty of the value of the asset at the moment of repossession.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 178",
+    "keywords": [
+      "sale prices",
+      "back-testing",
+      "haircuts",
+      "repossession"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "33_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0c3b4624",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ001",
+    "requirement": "LGD estimates would not be comparable with LGD estimates based on the requirements included in the GL and therefore should not be allowed.",
+    "category": "risk_management|credit_risk|compliance",
+    "priority": "high",
+    "reference": "Not explicitly stated",
+    "keywords": [
+      "LGD",
+      "estimates",
+      "comparability",
+      "GL"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": "Not applicable",
+    "applies_to": "Financial institutions",
+    "chunk_id": "33_SUB11",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d2db335e",
+    "parent_chunk_id": 33,
+    "sub_chunk_index": 11
+  }
+]

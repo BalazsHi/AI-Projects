@@ -1,0 +1,38 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "competent authorities will have to notify the EBA of whether or not they intend to comply with the GL.",
+    "category": "reporting",
+    "priority": "high",
+    "reference": "Chapter 1",
+    "keywords": [
+      "notify",
+      "EBA",
+      "comply"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "until the specified date",
+    "applies_to": "competent authorities",
+    "chunk_id": 3,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "45356ef0"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "If a competent authority decides not to comply with the whole or part of the GL it has to justify its decision.",
+    "category": "reporting",
+    "priority": "high",
+    "reference": "Chapter 1",
+    "keywords": [
+      "justify",
+      "decision",
+      "comply"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "competent authority",
+    "chunk_id": 3,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8d9baa4c"
+  }
+]

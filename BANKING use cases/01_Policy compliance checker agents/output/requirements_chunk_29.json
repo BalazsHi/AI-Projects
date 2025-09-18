@@ -1,0 +1,84 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "institutions should ensure that risk drivers and rating criteria are used consistently, in particular with regard to the time horizon considered, in model development, calibration and application",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 67",
+    "keywords": [
+      "risk drivers",
+      "rating criteria",
+      "consistency",
+      "model development",
+      "calibration",
+      "application"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 29,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0c8c1bf5"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "it is required that institutions analyse the appropriateness of the philosophy underlying the assignment of obligors or exposures to grades or pools (‘rating philosophy’), by taking into account, inter alia, the design of risk drivers.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": null,
+    "keywords": [
+      "rating philosophy",
+      "risk drivers",
+      "obligors",
+      "exposures",
+      "grades",
+      "pools"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 29,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "18740d2c"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "the GL require an assessment of the potential effect of portfolio versus grade calibration on the behaviour of PD estimates.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": null,
+    "keywords": [
+      "portfolio",
+      "grade calibration",
+      "PD estimates",
+      "assessment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 29,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a628c191"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "the GL require institutions to find an appropriate balance between the comparability of the calibration sample to the application portfolio in terms of obligors and transaction characteristics and its representativeness of the likely range of variability of default rates.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": null,
+    "keywords": [
+      "calibration sample",
+      "application portfolio",
+      "obligors",
+      "transaction characteristics",
+      "default rates",
+      "variability"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 29,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5ff75080"
+  }
+]

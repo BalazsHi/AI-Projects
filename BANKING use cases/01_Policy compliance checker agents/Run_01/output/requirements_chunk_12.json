@@ -1,0 +1,60 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "The difference should be calculated at an aggregate level separately for the portfolio of defaulted exposures and the portfolio of exposures that are not in default.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Article 73(h) of the RTS on assessment methodology",
+    "keywords": [
+      "defaulted exposures",
+      "non-defaulted exposures",
+      "calculation",
+      "aggregate level"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 12,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3f61fd0d"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The IRB excess resulting from the calculation performed for the defaulted portfolio is not used to offset IRB shortfall resulting from the calculation performed for the portfolio of exposures that are not in default, as prescribed in Article 159 of the CRR.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Article 159 of the CRR",
+    "keywords": [
+      "IRB excess",
+      "IRB shortfall",
+      "offset",
+      "defaulted portfolio",
+      "non-defaulted portfolio"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 12,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2c1536e8"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "If the calculation required by Article 159 of the CRR results in an IRB excess for both the defaulted and the non-defaulted portfolio, the limit for adding the overall IRB excess to Tier 2 capital set out in Article 62(d) of the CRR, i.e. up to 0.06% of risk-weighted exposure amounts, should be applied to the sum of the two IRB excesses.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Article 62(d) of the CRR",
+    "keywords": [
+      "IRB excess",
+      "Tier 2 capital",
+      "risk-weighted exposure amounts",
+      "limit"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 12,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "04543112"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions are required to define a regular cycle for the full review of rating systems, taking into consideration their materiality, covering all aspects of model development, quantification of risk parameters and, where applicable, the estimation of model components.",
+    "category": "governance|risk_management",
+    "priority": "high",
+    "reference": "Chapter 9; paragraph 78",
+    "keywords": [
+      "review",
+      "rating systems",
+      "materiality",
+      "model development",
+      "risk parameters"
+    ],
+    "requirement_type": "mandatory|procedural",
+    "deadline": "Not specified",
+    "applies_to": "Institutions",
+    "chunk_id": 38,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "08cd6b66"
+  }
+]

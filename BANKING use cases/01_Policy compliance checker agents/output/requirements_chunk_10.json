@@ -1,0 +1,400 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "For the purpose of computing realised LGDs for defaulted exposures, institutions should use reference points in time that will be relevant for the current outstanding obligations of defaulted exposures.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Chapter 7",
+    "keywords": [
+      "realised LGDs",
+      "defaulted exposures",
+      "reference points",
+      "current outstanding obligations"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7439fe5b",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should set discrete relevant reference dates at which the realised LGDs should be computed.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Chapter 7",
+    "keywords": [
+      "discrete reference dates",
+      "realised LGDs",
+      "computed"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d0d73573",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ003",
+    "requirement": "To ensure adequacy of the estimates, institutions should set the reference dates according to the recovery patterns observed on a specific type of exposures.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Chapter 7",
+    "keywords": [
+      "adequacy of estimates",
+      "reference dates",
+      "recovery patterns",
+      "specific type of exposures"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a604b3f3",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "For the purpose of the treatment of defaulted exposures, institutions should additionally store data including relevant risk drivers, which may become relevant after default, and outstanding exposure amounts and values of collaterals at each reference date.",
+    "category": "risk_management|credit_risk|operational",
+    "priority": "high",
+    "reference": "Data requirements for ELBE and LGD in-default",
+    "keywords": [
+      "defaulted exposures",
+      "store data",
+      "risk drivers",
+      "collaterals",
+      "reference date"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d31c876b",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should first evaluate which reference date is relevant for the exposure under consideration.",
+    "category": "risk_management|credit_risk|operational",
+    "priority": "high",
+    "reference": "For the purpose of application of the estimated LGD in-default and ELBE to a given defaulted exposure in the current portfolio",
+    "keywords": [
+      "reference date",
+      "exposure",
+      "evaluation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dde8e3f6",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Institutions should additionally store data including relevant risk drivers, which may become relevant after default, and outstanding exposure amounts and values of collaterals at each reference date.",
+    "category": "risk_management|credit_risk|operational",
+    "priority": "high",
+    "reference": "Data requirements for ELBE and LGD in-default",
+    "keywords": [
+      "store data",
+      "risk drivers",
+      "exposure amounts",
+      "collaterals",
+      "reference date"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "873559e3",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ004",
+    "requirement": "The relevance of risk drivers should be re-evaluated for the relevant periods after default, until the date of termination of the recovery process.",
+    "category": "risk_management|credit_risk|operational",
+    "priority": "high",
+    "reference": "Model development in the estimation of ELBE and LGD in-default",
+    "keywords": [
+      "risk drivers",
+      "re-evaluated",
+      "default",
+      "recovery process"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "10_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b50db0cb",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should calculate for each defaulted exposure in the RDS the realised LGDs according to each reference date that is relevant for estimation purposes.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Chapter 6",
+    "keywords": [
+      "realised LGDs",
+      "defaulted exposures",
+      "RDS",
+      "reference date"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "fa355b91",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Incomplete recovery processes should be used only for those reference dates for which observations of recoveries and costs are available at least until the next reference date.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Section 6.4",
+    "keywords": [
+      "incomplete recovery processes",
+      "recoveries",
+      "costs",
+      "reference dates"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "57a4f38b",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Incomplete recovery processes on which ELBE and LGD in-default are estimated should not take part in the estimation itself and will be therefore excluded, if only those incomplete recovery processes for which later reference dates are relevant are taken into account.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Section 6.4",
+    "keywords": [
+      "incomplete recovery processes",
+      "ELBE",
+      "LGD in-default",
+      "estimation"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6e024ba4",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ004",
+    "requirement": "No further recoveries should be estimated beyond the maximum length of the recovery processes specified for the specific type of exposures.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Section 6.4",
+    "keywords": [
+      "recoveries",
+      "maximum length",
+      "recovery processes",
+      "exposures"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "aab667a5",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The ELBE estimation methods should take into account all currently available and relevant information and, in particular, consider current economic circumstances and exposure status.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Article 181(1)(h) of the CRR",
+    "keywords": [
+      "ELBE estimation",
+      "relevant information",
+      "economic circumstances",
+      "exposure status"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "10_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6d546a44",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The ELBE should not include any Mo C, as this would not be in line with the best estimate concept.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "ELBE",
+      "Mo C",
+      "best estimate concept"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "10_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "048de0a9",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should take into account economic factors, including macroeconomic and credit factors, that are relevant for the type of exposures under consideration.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Current economic circumstances",
+    "keywords": [
+      "economic factors",
+      "macroeconomic",
+      "credit factors",
+      "exposures"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f79f869f",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should obtain their ELBE estimates through an adjustment to the long-run average LGD for defaulted exposures, where necessary, consistently with the estimation of LGD in-default, such that a meaningful application of the risk weight formula is ensured.",
+    "category": "risk_management|credit_risk|capital_adequacy",
+    "priority": "high",
+    "reference": "Current economic circumstances",
+    "keywords": [
+      "ELBE estimates",
+      "LGD",
+      "defaulted exposures",
+      "risk weight formula"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "227034ad",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Where the adjustment is applied, it should be adequately documented, including its rationale and calculation.",
+    "category": "risk_management|credit_risk|reporting",
+    "priority": "medium",
+    "reference": "Current economic circumstances",
+    "keywords": [
+      "adjustment",
+      "documented",
+      "rationale",
+      "calculation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "aa7949d9",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should reflect in their LGD in-default estimates at least downturn conditions.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Article 54(2)(a) of the RTS on IRB assessment methodology",
+    "keywords": [
+      "LGD",
+      "downturn conditions",
+      "estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b570f607",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should always be able to document: the breakdown of the LGD in-default into its components: the ELBE and the add-on; and the breakdown of the add-on into its components: the downturn adjustment, Mo C, and, where relevant, any component covering for additional unexpected losses during the recovery period",
+    "category": "risk_management|credit_risk|reporting",
+    "priority": "high",
+    "reference": "Article 181(1)(h) of the CRR",
+    "keywords": [
+      "LGD",
+      "documentation",
+      "ELBE",
+      "add-on",
+      "Mo C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "10_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "65f86888",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ001",
+    "requirement": "to the extent that the reason for overriding the ELBE also applies to the LGD in-default an override of the LGD in-default should be triggered.",
+    "category": "risk_management|credit_risk|compliance",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 42",
+    "keywords": [
+      "LGD",
+      "ELBE",
+      "override",
+      "risk weights"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "10_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "9efb2f9a",
+    "parent_chunk_id": 10,
+    "sub_chunk_index": 7
+  }
+]

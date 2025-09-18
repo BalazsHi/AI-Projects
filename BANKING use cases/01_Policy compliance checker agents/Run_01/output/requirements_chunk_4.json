@@ -1,0 +1,38 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "These GL apply to all models for which an institution received permission to use under the IRB Approach.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "Chapter 2",
+    "keywords": [
+      "IRB Approach",
+      "models",
+      "permission"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions using IRB Approach models",
+    "chunk_id": 4,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2b2e02e2"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Where institutions do not use own estimates of LGD (in accordance with the ‘Foundation’ IRB Approach) Chapters 6 and 7 do not apply, but all other requirements, including those specified in Chapters 4, 5, 8 and 9, apply with regard to PD estimates.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "Chapter 2",
+    "keywords": [
+      "LGD",
+      "PD estimates",
+      "Chapters 4, 5, 8 and 9"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions not using own LGD estimates",
+    "chunk_id": 4,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "28159d00"
+  }
+]

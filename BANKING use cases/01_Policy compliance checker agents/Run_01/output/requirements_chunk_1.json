@@ -1,0 +1,611 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "In the case of defaulted exposures, institutions are required to estimate LGD (so called LGD in-default) and expected loss best estimate (ELBE).",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Executive summary",
+    "keywords": [
+      "defaulted exposures",
+      "LGD",
+      "ELBE",
+      "estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "1_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6623dd64",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "In the case of defaulted exposures, institutions are required to estimate LGD (so called LGD in-default) and expected loss best estimate (ELBE).",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "LGD",
+      "ELBE",
+      "defaulted exposures",
+      "estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "1_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6623dd64",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The GL specify aspects common to all risk parameters, such as the use of human judgement both in the development and in the application of the internal models, appropriate margin of conservatism (Mo C) that should be incorporated in risk parameters, and regular reviews of the models to ensure timely implementation of necessary changes in case of deteriorated performance of the models.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "human judgement",
+      "margin of conservatism",
+      "model reviews",
+      "risk parameters"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "1_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "9f610b18",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ003",
+    "requirement": "all loss observations have to be used for the calibration of the actual capital requirements.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "loss observations",
+      "capital requirements",
+      "calibration"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "1_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2fec86f0",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ004",
+    "requirement": "sufficient time has to be granted for their implementation, which also takes into account the time needed to seek supervisory approval for material model changes.",
+    "category": "compliance",
+    "priority": "medium",
+    "reference": "Not specified",
+    "keywords": [
+      "implementation",
+      "supervisory approval",
+      "model changes"
+    ],
+    "requirement_type": "procedural",
+    "deadline": "end of 2020",
+    "applies_to": "Institutions",
+    "chunk_id": "1_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "53f10ea5",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "When implementing any changes in the rating systems stemming from the regulatory review of the IRB Approach, and also subsequently on a continuous basis, institutions should take into account not only these GL but also provisions included in other related regulatory products, in particular in the RTS on IRB assessment methodology, the RTS on materiality threshold for past due credit obligations, the GL on the application of the definition of default, and the RTS on the nature, severity and duration of economic downturn.",
+    "category": "risk_management|credit_risk|compliance",
+    "priority": "high",
+    "reference": "First paragraph",
+    "keywords": [
+      "IRB Approach",
+      "rating systems",
+      "regulatory review",
+      "RTS",
+      "GL"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "1_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e300e476",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "All requirements for LGD are also applicable to LGD in-default and ELBE, unless specified otherwise in Chapter 7 of the GL.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Chapter 7 of the GL",
+    "keywords": [
+      "LGD",
+      "LGD in-default",
+      "ELBE",
+      "requirements"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d8ad31cf",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Rating systems should be developed for specific types of exposures, i.e. groups of exposures that are homogeneously managed in accordance with the definition included in Article 142(1) of the CRR.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Structure of the rating systems",
+    "keywords": [
+      "rating systems",
+      "exposures",
+      "homogeneously managed",
+      "Article 142(1) CRR"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2bc61308",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ001",
+    "requirement": "the data used for calculating long-run average default rate or LGD for the purpose of calibration has to contain all observations from the relevant historical observation period.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "data",
+      "calibration",
+      "default rate",
+      "LGD",
+      "historical observation period"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "9ae7f208",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ002",
+    "requirement": "any identified issues are assessed from the perspective of their influence on risk quantification and, if a bias in risk quantification is identified, it has to be addressed through an appropriate adjustment and margin of conservatism (Mo C).",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "risk quantification",
+      "bias",
+      "adjustment",
+      "margin of conservatism"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b46ab8f0",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ003",
+    "requirement": "The adequate levels of PD should be reflective of the long-run average default rate, whereas adequate levels of LGD should be the higher of the LGD based on the long-run average LGD and the LGD reflective of the downturn conditions.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "PD",
+      "long-run average default rate",
+      "LGD",
+      "downturn conditions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8d06a495",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Governance for data representativeness",
+    "category": "governance",
+    "priority": "medium",
+    "reference": "4.2.2",
+    "keywords": [
+      "governance",
+      "data",
+      "representativeness"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6f12b809",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Human judgement in estimation of risk parameters",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "4.3",
+    "keywords": [
+      "human judgement",
+      "risk parameters",
+      "estimation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ca6d48e3",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Identification of deficiencies",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "4.4.1",
+    "keywords": [
+      "deficiencies",
+      "identification"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "455780e7",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Appropriate adjustment",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "4.4.2",
+    "keywords": [
+      "adjustment",
+      "appropriate"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "13ac4a8a",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ005",
+    "requirement": "Treatment of deficiencies and margin of conservatism",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "4.4",
+    "keywords": [
+      "deficiencies",
+      "margin of conservatism",
+      "treatment"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "78d6c0cc",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ006",
+    "requirement": "Model development in ELBE and LGD-in-default estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "7.2",
+    "keywords": [
+      "model development",
+      "ELBE",
+      "LGD-in-default estimation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ddd4896d",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ007",
+    "requirement": "Calculation of realised LGD and LRA LGD for defaulted exposures",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "7.3.1",
+    "keywords": [
+      "realised LGD",
+      "LRA LGD",
+      "defaulted exposures",
+      "calculation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "292e0688",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ008",
+    "requirement": "Specific requirements for ELBE estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "7.3.2",
+    "keywords": [
+      "ELBE estimation",
+      "specific requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e632efd4",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ009",
+    "requirement": "Specific requirements for LGD in- default estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "7.3.3",
+    "keywords": [
+      "LGD",
+      "default estimation",
+      "specific requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "543f7535",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ010",
+    "requirement": "Calculation of IRB shortfall or excess",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "8.4",
+    "keywords": [
+      "IRB",
+      "shortfall",
+      "excess",
+      "calculation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "76082f88",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ011",
+    "requirement": "Review of estimates",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "9",
+    "keywords": [
+      "estimates",
+      "review"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0fe31f0a",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ012",
+    "requirement": "General requirements specific to ELBE and LGD-in-default estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "7.1",
+    "keywords": [
+      "ELBE",
+      "LGD-in-default estimation",
+      "general requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "87af11d9",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ013",
+    "requirement": "General requirements specific to LGD estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "6.1",
+    "keywords": [
+      "LGD estimation",
+      "general requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dbc7dc15",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ014",
+    "requirement": "General requirements specific to PD estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "5.1",
+    "keywords": [
+      "PD estimation",
+      "general requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5eebb854",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ015",
+    "requirement": "Model development in LGD estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "6.2",
+    "keywords": [
+      "LGD estimation",
+      "model development"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "553065a7",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ016",
+    "requirement": "Model development in PD estimation",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "5.2",
+    "keywords": [
+      "PD estimation",
+      "model development"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0d8c8a09",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ017",
+    "requirement": "Calculation of measures such as one-year default rates, observed average default rate and long-run average default rate",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "As the PD calibration is based on the long-run average default rate",
+    "keywords": [
+      "one-year default rates",
+      "observed average default rate",
+      "long-run average default rate",
+      "calculation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial Institutions",
+    "chunk_id": "1_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a0bfb34d",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The long-run average default rate should reflect the likely range of variability of default rates and hence may be based on a different observation period, or may require certain adequate adjustments.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "Not explicitly stated",
+    "keywords": [
+      "default rate",
+      "long-run average",
+      "variability",
+      "adjustments"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB11",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8fb21b42",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 11
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Calibration has the purpose of ensuring that the estimates are reflective of the long-run average at a grade or pool level.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "Not explicitly stated",
+    "keywords": [
+      "calibration",
+      "estimates",
+      "long-run average",
+      "grade",
+      "pool"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "1_SUB11",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a0a3441e",
+    "parent_chunk_id": 1,
+    "sub_chunk_index": 11
+  }
+]

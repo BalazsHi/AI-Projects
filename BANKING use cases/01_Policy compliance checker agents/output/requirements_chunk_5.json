@@ -1,0 +1,21 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should agree with their competent authorities the latest date for submitting the application for the necessary changes in the rating systems.",
+    "category": "operational|compliance",
+    "priority": "high",
+    "reference": "Chapter 3",
+    "keywords": [
+      "application",
+      "rating systems",
+      "competent authorities",
+      "submission"
+    ],
+    "requirement_type": "procedural",
+    "deadline": "The latest date for submitting the application should be agreed upon.",
+    "applies_to": "Financial institutions",
+    "chunk_id": 5,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d127c13c"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should incorporate the requirements of these guidelines in their rating systems by that time [1 January 2021].",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "3.1 Date of application, paragraph 9",
+    "keywords": [
+      "rating systems",
+      "guidelines",
+      "incorporate"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "1 January 2021",
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bac40114"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The internal validation function should verify the changes which are applied to the rating systems as a result of the application of these guidelines and the regulatory technical standards to be developed in accordance with Article 144(2) of Regulation (EU) No 575/2013, and the classification of the changes in accordance with Commission Delegated Regulation (EU) No 529/2014.",
+    "category": "governance",
+    "priority": "high",
+    "reference": "3.2 First application of the Guidelines, paragraph 10",
+    "keywords": [
+      "internal validation function",
+      "verify changes",
+      "rating systems"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Internal validation function",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3ecce91f"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Institutions that need to obtain prior permission from competent authorities in accordance with Article 143(3) of Regulation (EU) No 575/2013 and Regulation (EU) No 529/2014 for the changes in the rating systems required to incorporate these guidelines for the first time by the deadline referred to in paragraph 9 should agree with their competent authorities the final deadline for submitting the application for such prior permission.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "3.2 First application of the Guidelines, paragraph 11",
+    "keywords": [
+      "prior permission",
+      "competent authorities",
+      "agree deadline",
+      "application"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "As agreed with competent authorities",
+    "applies_to": "Institutions requiring prior permission",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8610bab6"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "For the purpose of quantification of various risk parameters within a rating system, institutions should apply the same definition of default for the same historical observations used in different models. Institutions should also apply the same treatment of multiple defaults of the same obligor or exposure across internal, external and pooled data sources.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.1 Principles for specifying the range of application of the rating systems, paragraph 14",
+    "keywords": [
+      "same definition of default",
+      "same treatment",
+      "multiple defaults"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a6d4dd4c"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "In order to comply with the requirement of Article 76 of the RTS on IRB assessment methodology that institutions should have sound policies, processes and methods for assessing and improving the quality of data used for the purpose of credit risk measurement and management processes, institutions should ensure that those policies apply to all data used in model development and calibration, as well as to the data used in the application of the risk parameters.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.1 Quality of data, paragraph 15",
+    "keywords": [
+      "sound policies",
+      "processes",
+      "methods",
+      "data quality",
+      "model development",
+      "calibration"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "42a18ae8"
+  },
+  {
+    "id": "REQ006",
+    "requirement": "In order for the data used in the model development and in the application of risk parameters as inputs into the model to meet the requirements of accuracy, completeness and appropriateness specified in Article 174(b) of Regulation (EU) No 575/2013, it should be sufficiently precise to avoid material distortions of the outcome of the assignment of exposures to obligors or facility grades or pools, and it should not contain any biases which make the data unfit for purpose.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.1 Quality of data, paragraph 16",
+    "keywords": [
+      "accuracy",
+      "completeness",
+      "appropriateness",
+      "precise data",
+      "avoid distortions",
+      "no biases"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f5bac5ac"
+  },
+  {
+    "id": "REQ007",
+    "requirement": "In order to comply with the requirement of the representativeness of data used in the PD and LGD models specified in Articles 174(c), 179(1)(d) and 179(2)(b) of Regulation (EU) No 575/2013 as well as in Articles 40 and 45 of the RTS on IRB assessment methodology, institutions should have sound policies, processes and methods for assessing the representativeness of data used for the purpose of estimation of risk parameters. Institutions should specify in their internal policies the statistical tests and metrics to be used for the purpose of assessing the representativeness of data used for risk differentiation and, separately, for data underlying the risk quantification. Institutions should also specify methods for qualitative assessment of data for the cases, defined in their policies, where the application of statistical tests is not possible.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.2 Governance for data representativeness, paragraph 17",
+    "keywords": [
+      "representativeness of data",
+      "sound policies",
+      "processes",
+      "methods",
+      "statistical tests",
+      "metrics",
+      "qualitative assessment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ab48bc8d"
+  },
+  {
+    "id": "REQ008",
+    "requirement": "Institutions should use the same standards and methods for the assessment of representativeness of data stemming from different sources, including internal, external and pooled data or a combination of these, unless different methods are justified by the specificity of the data source or availability of information.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "4.2.2 Governance for data representativeness, paragraph 18",
+    "keywords": [
+      "same standards",
+      "methods",
+      "assessment",
+      "representativeness",
+      "data sources"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0212a96a"
+  },
+  {
+    "id": "REQ009",
+    "requirement": "Where external or pooled data are used institutions should obtain sufficient information from the data providers to assess the representativeness of such external or pooled data to the institutions’ own portfolios and processes.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "4.2.2 Governance for data representativeness, paragraph 19",
+    "keywords": [
+      "external data",
+      "pooled data",
+      "sufficient information",
+      "data providers",
+      "representativeness"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "705afba0"
+  },
+  {
+    "id": "REQ010",
+    "requirement": "Institutions should analyse the representativeness of data in the case of statistical models and other mechanical methods used to assign exposures to grades or pools, as well as in the case of statistical default prediction models generating default probability estimates for individual obligors or facilities. Institutions should select an appropriate dataset for the purpose of model development to ensure that the performance of the model on the application portfolio, in particular its discriminatory power, is not significantly hindered by insufficient representativeness of data.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 20",
+    "keywords": [
+      "representativeness of data",
+      "statistical models",
+      "mechanical methods",
+      "appropriate dataset",
+      "model development"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f26ae42c"
+  },
+  {
+    "id": "REQ011",
+    "requirement": "For the purposes of ensuring that the data used in developing the model for assigning obligors or exposures to grades or pools is representative of the application portfolio covered by the relevant model, as required in Article 174(c) of Regulation (EU) No 575/2013 and Article 40(2) of the RTS on IRB assessment methodology institutions should analyse the representativeness of the data at the stage of model development in terms of all of the following: (a) the scope of application; (b) the definition of default; (c) the distribution of the relevant risk characteristics; (d) lending standards and recovery policies.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 21",
+    "keywords": [
+      "representativeness of data",
+      "model development",
+      "scope of application",
+      "definition of default",
+      "risk characteristics",
+      "lending standards",
+      "recovery policies"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dc498e82"
+  },
+  {
+    "id": "REQ012",
+    "requirement": "For the purpose of paragraph 21(a) institutions should analyse the segmentation of exposures and consider whether there were any changes to the scope of application of the considered model over the period covered by the data used in developing the model for assigning obligors or exposures to grades or pools. Where such changes were observed institutions should analyse the risk drivers relevant for the change of the scope of application of the model by comparing their distribution in the RDS before and after the change as well as with the distribution of those risk drivers in the application portfolio. For this purpose institutions should apply statistical methodologies such as cluster analysis or similar techniques to demonstrate representativeness. In the case of pooled models the analysis should be performed with regard to the part of the scope of the model that is used by an institution.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 22",
+    "keywords": [
+      "segmentation of exposures",
+      "changes to scope",
+      "risk drivers",
+      "statistical methodologies",
+      "cluster analysis",
+      "pooled models"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d14af724"
+  },
+  {
+    "id": "REQ013",
+    "requirement": "For the purpose of paragraph 21(b) institutions should ensure that the definition of default underlying the data used for model development is consistent over time and, in particular, that it is consistent with all of the following: (a) that adjustments have been made to achieve consistency with the current default definition where the default definition has been changed during the observation period; (b) that adequate measures have been adopted by the institution, where the model covers exposures in several jurisdictions having or having had different default definitions; (c) that the definition of default in each data source has been analysed separately; (d) that the definition of default used for the purposes of model development does not have a negative impact on the structure and performance of the rating model, in terms of risk differentiation and predictive power, where this definition is different from the definition of default used by the institution in accordance with Article 178 of Regulation (EU) No 575/2013.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 23",
+    "keywords": [
+      "definition of default",
+      "model development",
+      "consistent over time",
+      "adjustments",
+      "adequate measures",
+      "different jurisdictions",
+      "negative impact"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c9672eb9"
+  },
+  {
+    "id": "REQ014",
+    "requirement": "For the purpose of paragraph 21(c) institutions should analyse the distribution and range of values of key risk characteristics of the data used in developing the model for risk differentiation in comparison with the application portfolio. With regard to LGD models, institutions should perform such analysis separately for non-defaulted and defaulted exposures.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 24",
+    "keywords": [
+      "distribution",
+      "range of values",
+      "key risk characteristics",
+      "risk differentiation",
+      "LGD models",
+      "non-defaulted",
+      "defaulted exposures"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5830a359"
+  },
+  {
+    "id": "REQ015",
+    "requirement": "Institutions should analyse the representativeness of the data in terms of the structure of the portfolio by relevant risk characteristics based on statistical tests specified in their policies to ensure that the range of values observed on these risk characteristics in the application portfolio is adequately reflected in the development sample. Where the application of statistical tests is not possible, institutions should carry out at least a qualitative analysis on the basis of the descriptive statistics of the structure of the portfolio, taking into account the possible seasoning effects referred to in Article 180(2)(f) of Regulation (EU) No 575/2013. When considering the results of this analysis, institutions should take into account the sensitivity of the risk characteristics to economic conditions. Material differences in the key risk characteristics between the data sample and the application portfolio should be addressed, for example by using another data sample or a subset of observations or by adequately reflecting these risk characteristics as risk drivers in the model.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 25",
+    "keywords": [
+      "representativeness of data",
+      "structure of the portfolio",
+      "statistical tests",
+      "qualitative analysis",
+      "descriptive statistics",
+      "seasoning effects",
+      "economic conditions",
+      "material differences"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2454ed78"
+  },
+  {
+    "id": "REQ016",
+    "requirement": "For the purpose of paragraph 21(d) institutions should analyse whether, over the relevant historical observation period, there were significant changes in their lending standards or recovery policies or in the relevant legal environment, including changes in insolvency law, legal foreclosure procedures and any legal regulations related to realisation of collaterals, which may influence the level of risk or the distribution or ranges of the risk characteristics in the portfolio covered by the considered model. Where institutions observe such changes they should compare the data included in the RDS before and after the change of the policy. Institutions should ensure comparability of the current underwriting or recovery standards with those applied to the observations included in the RDS and used for model development.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "4.2.3 Representativeness of data for model development, paragraph 26",
+    "keywords": [
+      "lending standards",
+      "recovery policies",
+      "legal environment",
+      "insolvency law",
+      "foreclosure procedures",
+      "collaterals",
+      "RDS",
+      "model development"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 16,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dd746834"
+  }
+]

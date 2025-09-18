@@ -1,0 +1,323 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should document separately all of the following: (a) the break-down of the LGD in-default into its components: the ELBE and the add-on; (b) the break-down of the add-on into all of the following components: (i) the downturn conditions component calibrated on the downturn adjustment to the long-run average LGD as specified in paragraph 189; (ii) the Mo C component, referred to in section 4.4; (iii) any component covering for potential additional unexpected losses during the recovery period referred to in Article 181 (1)(h) of Regulation (EU) No 575/2013; this component should only be included in exceptional circumstances where the potential additional losses are not sufficiently reflected in the components referred to in points (i) and (ii).",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Article 181(1)(h) of Regulation (EU) No 575/2013, paragraph 193",
+    "keywords": [
+      "LGD",
+      "documentation",
+      "ELBE",
+      "add-on",
+      "downturn conditions",
+      "Mo C component",
+      "unexpected losses"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b3605647"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "In the application of the PD or LGD model and where institutions receive new information with respect to a relevant risk driver or rating criterion, they should take this information into account in the rating assignment in a timely manner, in particular by ensuring both of the following: (a) that the relevant IT systems are updated as soon as possible and that the corresponding rating and PD or LGD assignment is reviewed as soon as possible; (b) where the new information relates to the default of an obligor, that the PD of the obligor is set to 1 in all relevant IT systems in a timely manner and in accordance with paragraph 108 of the Guidelines on the application of the definition of default under Article 178 of Regulation (EU) No 575/2013.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 194",
+    "keywords": [
+      "PD",
+      "LGD",
+      "rating assignment",
+      "IT systems",
+      "default",
+      "obligor"
+    ],
+    "requirement_type": "procedural",
+    "deadline": "as soon as possible",
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "444bb6cc"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "For the purpose of Article 171(2) of Regulation (EU) No 575/2013 institutions should apply additional conservatism to the outcomes of the rating assignment where any deficiencies are identified related to the implementation of the model in the IT system or to the process of assignment of risk parameters to obligors or facilities in the current portfolio (application of risk parameters), especially when those deficiencies relate to data used in the rating assignment process. They should do so by establishing a framework that consists of the following phases: (a) identification of deficiencies of implementation of the model in the IT system or application of risk parameters; (b) specification of the form of conservatism to be applied and quantification of the appropriate level of conservatism; (c) monitoring of the deficiencies and correcting them; (d) documentation.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 195",
+    "keywords": [
+      "conservatism",
+      "rating assignment",
+      "deficiencies",
+      "IT system",
+      "risk parameters",
+      "framework"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e816f087"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "For the purpose of paragraph 195(a) institutions should have a robust process for identifying all implementation and application deficiencies in the assignment process, whereby each deficiency leads to additional conservative treatment in the affected assignment to a grade or pool. Institutions should consider at least the following triggers for additional conservatism: (a) missing data in the application portfolio; (b) missing updates of financial statements or credit bureau data as referred to in paragraph 59(h); (c) outdated ratings in the application portfolio; where outdated rating should be understood as specified in Article 25(2)(b) of the RTS on IRB methodology; (d) missing ratings, whereby an exposure is considered as being within the scope of application of the IRB model but is not rated by it.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 196",
+    "keywords": [
+      "deficiencies",
+      "conservatism",
+      "triggers",
+      "missing data",
+      "outdated ratings",
+      "missing ratings"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "049c3e0c"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "For the purpose of paragraph 195(b) institutions should ensure that the occurrence of any of the triggers referred to in paragraph 196 results in the application of additional conservatism to the risk parameter for the purpose of the calculation of risk-weighted exposure amounts. Where more than one trigger occurs, the estimate should be more conservative. The additional conservatism related to each trigger should be proportionate to the uncertainty in the estimated risk parameter introduced by the trigger.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 197",
+    "keywords": [
+      "conservatism",
+      "triggers",
+      "risk parameter",
+      "risk-weighted exposure amounts"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7b2fa315"
+  },
+  {
+    "id": "REQ006",
+    "requirement": "Institutions should consider the overall impact of the identified deficiencies and the resulting conservatism at the level of portfolio covered with the relevant model on the soundness of the assignments to grades or pools and ensure that the own funds requirements are not distorted by the necessity of excessive adjustments.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "paragraph 198",
+    "keywords": [
+      "deficiencies",
+      "conservatism",
+      "portfolio",
+      "own funds requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f416820e"
+  },
+  {
+    "id": "REQ007",
+    "requirement": "For the purpose of paragraph 195(c) institutions should regularly monitor the implementation and application deficiencies and the levels of additional conservatism applied in relation to them. Whenever possible, institutions should take steps to address the identified deficiencies. Following its assessment, the institution should develop a plan to rectify the deficiencies within a reasonable timeframe, taking into consideration the magnitude of the impact on the own funds requirements.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "paragraph 199",
+    "keywords": [
+      "deficiencies",
+      "conservatism",
+      "monitor",
+      "rectify",
+      "own funds requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": "reasonable timeframe",
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "df0f6838"
+  },
+  {
+    "id": "REQ008",
+    "requirement": "For the purpose of paragraph 195(d) institutions should specify adequate manuals and procedure for applying additional conservatism and should document the process applied in addressing implementation and application deficiencies. Such documentation should contain at least the triggers considered and the effects that the activation of such triggers had on the final assignment to a grade or pool, the level of risk parameter and on the own funds requirements.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 200",
+    "keywords": [
+      "conservatism",
+      "documentation",
+      "triggers",
+      "risk parameter",
+      "own funds requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "4b833a10"
+  },
+  {
+    "id": "REQ009",
+    "requirement": "Institutions should specify clear criteria for the use of qualitative model inputs and they should ensure a consistent application of such inputs by all relevant personnel and a consistent assignment of obligors or facilities posing similar risk to the same grade or pool as required by Article 171(1)(a) of Regulation (EU) No 575/2013.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 202",
+    "keywords": [
+      "qualitative model inputs",
+      "consistent application",
+      "obligors",
+      "facilities"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b41034bc"
+  },
+  {
+    "id": "REQ010",
+    "requirement": "For the purpose of Article 172(3) of Regulation (EU) No 575/2013 institutions should specify the policies and criteria for the use of overrides in the rating assignment process. These policies should refer both to possible overrides of inputs and outputs of such process and should be specified in a conservative manner such that the scale of conservative overrides should not be limited. In contrast, the scale of potential decreases of the estimates resulting from the model, either by overriding the inputs or outputs of the rating assignment process, should be limited. In applying the overrides institutions should take into account all relevant and up-to-date information.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 203",
+    "keywords": [
+      "overrides",
+      "rating assignment",
+      "policies",
+      "criteria",
+      "conservative manner"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b46397d9"
+  },
+  {
+    "id": "REQ011",
+    "requirement": "Institutions should document the scale and rationale of each override. Wherever possible institutions should specify a predefined list of possible justifications of the overrides to choose from. Institutions should also store information on the date of override and the person that performed and approved it.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 204",
+    "keywords": [
+      "override",
+      "documentation",
+      "justifications",
+      "date",
+      "person"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5af7cf0e"
+  },
+  {
+    "id": "REQ012",
+    "requirement": "Institutions should regularly monitor the level and justifications for overrides of inputs and outputs of the rating assignment process. They should specify in their policies the maximum acceptable rate of overrides for each model. Where those maximum levels are breached, adequate measures should be taken by the institution. The rates of overrides should be specified and monitored at the level of calibration segment. Where there is a high number of overrides institutions should adopt adequate measures to improve the model.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 205",
+    "keywords": [
+      "overrides",
+      "monitor",
+      "policies",
+      "maximum acceptable rate",
+      "calibration segment"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "29cfa779"
+  },
+  {
+    "id": "REQ013",
+    "requirement": "Institutions should regularly analyse the performance of exposures in relation to which an override of input or output of the rating assignment process has been performed in accordance with Article 172(3) of Regulation (EU) No 575/2013.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "paragraph 206",
+    "keywords": [
+      "overrides",
+      "performance",
+      "exposures",
+      "rating assignment"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "67e6637b"
+  },
+  {
+    "id": "REQ014",
+    "requirement": "Institutions should regularly assess the performance of the model before and after the overrides of outputs of the rating assignment process. Where the assessment concludes that the use of overrides significantly decreased the model’s capacity to accurately quantify the risk parameters (‘predictive power of the model’), institutions should adopt adequate measures to ensure the correct application of overrides.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 207",
+    "keywords": [
+      "model performance",
+      "overrides",
+      "risk parameters",
+      "predictive power",
+      "correct application"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7e869c57"
+  },
+  {
+    "id": "REQ015",
+    "requirement": "In accordance with Article 144(1)(b) of Regulation (EU) No 575/2013 and Articles 18 to 21 of the RTS on IRB assessment methodology institutions should use the same estimates of risk parameters for the purpose of own funds requirements calculation and for internal purposes, including risk management and decision-making processes, unless all of the following conditions are met:",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 208",
+    "keywords": [
+      "risk parameters",
+      "own funds requirements",
+      "internal purposes",
+      "risk management",
+      "decision-making"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "707e2ead"
+  },
+  {
+    "id": "REQ016",
+    "requirement": "Where institutions use for internal purposes estimates of risk parameters that are different from those used in the calculation of own funds requirements they should periodically reflect this in their internal reporting to senior management by providing information on both sets of parameters. In any case internal reporting should include all elements specified in Article 189(3) of Regulation (EU) No 575/2013 based on the estimates of risk parameters used for the purpose of calculation of own funds requirements.",
+    "category": "reporting",
+    "priority": "high",
+    "reference": "paragraph 210",
+    "keywords": [
+      "risk parameters",
+      "internal reporting",
+      "senior management",
+      "Article 189(3)",
+      "own funds requirements"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 23,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6686cdc1"
+  }
+]

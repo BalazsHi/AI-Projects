@@ -1,0 +1,94 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should be able to detect and monitor these situations to make sure that the risk is reflected correctly, including additional conservatism where necessary.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Chapter 8",
+    "keywords": [
+      "risk",
+      "monitoring",
+      "conservatism"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 11,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ccd268bb"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "In any case, where institutions want to apply the overrides, this should be based on an appropriate internal framework to make sure that the weaknesses of the assignment are identified consistently, that the overrides are applied within certain limits and that they are appropriately justified, approved and monitored.",
+    "category": "governance",
+    "priority": "high",
+    "reference": "Chapter 8",
+    "keywords": [
+      "overrides",
+      "internal framework",
+      "justification",
+      "approval",
+      "monitoring"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 11,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dfcd39a4"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Where necessary, such analysis should result in the improvement of the model, for instance by including additional risk drivers, increasing granularity of categorisation or changing the weights of risk drivers, or in the improvement of data collection or data quality management processes.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Chapter 8",
+    "keywords": [
+      "model improvement",
+      "risk drivers",
+      "data quality"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 11,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "139b6a63"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "In any case, however, the rank ordering of obligors or exposures should remain the same as used for the purpose of own funds requirements, apart from possibly different grouping of exposures into grades.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "rank ordering",
+      "own funds requirements"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 11,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7501dc1d"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "Article 159 of the CRR requires institutions to calculate the difference between, on one hand, credit risk adjustments, additional value adjustments, and, on the other hand, own funds reductions and expected loss amounts.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Article 159 of the CRR",
+    "keywords": [
+      "credit risk adjustments",
+      "own funds reductions",
+      "expected loss amounts",
+      "calculation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 11,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bf50b5ea"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "In the case of M&A, institutions have to reconsider the scope of application of the model.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "section 4.2.4",
+    "keywords": [
+      "M&A",
+      "model scope",
+      "reconsider"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 31,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "60f7d554"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The calculation of the long-run average LGD should be based on all historical observations within the scope of application of the model.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "section 4.2.4",
+    "keywords": [
+      "long-run average LGD",
+      "historical observations",
+      "calculation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 31,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e2c449d7"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "This situation should be addressed by appropriate choices of model design and calibration methodology, for instance by the use of recovery scenarios and their probabilities.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "section 4.2.4",
+    "keywords": [
+      "model design",
+      "calibration methodology",
+      "recovery scenarios"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": 31,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8b2abe30"
+  }
+]

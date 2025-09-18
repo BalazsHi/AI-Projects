@@ -1,0 +1,17 @@
+langgraph==0.2.14
+langchain-google-genai==1.0.10
+langchain-community==0.2.16
+langchain-core==0.2.38
+python-docx==1.1.0
+pypdf2==3.0.1
+pymupdf==1.23.26
+tiktoken==0.7.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+rich==13.7.0
+google-generativeai
+python-docx
+PyMuPDF
+python-dotenv
+rich
+pdfplumber

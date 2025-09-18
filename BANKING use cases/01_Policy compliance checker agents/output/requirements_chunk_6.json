@@ -1,0 +1,433 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should have adequate policies, processes and methods for assessing the representativeness of data used for the purpose of estimation of risk parameters, and they should pay particular attention to situations where data from different sources are used.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "representativeness of data",
+      "risk parameters",
+      "policies",
+      "processes",
+      "methods"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "6_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "250df519",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "For the purpose of calculating long-run average default rate and long-run average LGD, the definition of default has to strictly reflect the requirements of Article 178 of the CRR.",
+    "category": "risk_management|credit_risk|compliance",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "default",
+      "LGD",
+      "CRR",
+      "Article 178"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "abad6ed9",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The non-comparability of the historical data underlying risk quantification should not lead to any data exclusions, but should trigger an appropriate adjustment and increased Mo C.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "data exclusions",
+      "risk quantification",
+      "adjustment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c36dc454",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Data exclusions may be a tool to quantify adjustments to the observed average default and loss rates where these are necessary; however, they should never be taken into account for the purpose of calculating the observed average default rate.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "data exclusions",
+      "default rate",
+      "loss rates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dd0cadb0",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ003",
+    "requirement": "While all defaulted observations, including those subject to the sale, have to be included in the calculation of long-run average LGD for the purpose of LGD calibration, institutions may decide not to include these observations in the sample used for the purpose of risk differentiation, for instance in the design of relevant pools.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "defaulted observations",
+      "LGD calibration",
+      "risk differentiation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6024f918",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ004",
+    "requirement": "The LGD estimation methodology should be consistent with the collection and recovery policies adopted by the institution and adequate to the type of exposures to which LGDs are applied.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "LGD estimation",
+      "recovery policies",
+      "exposures"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "fc707d11",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ005",
+    "requirement": "Where (some of) the observations subject to the sale would not be included in the phase of model development, they should provide the basis for the adequate adjustment in the calibration phase in order to reflect the calibration target, i.e. the long-run average LGD, which should always be based on all observed defaults.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "model development",
+      "calibration phase",
+      "LGD"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d47b6dcc",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "When estimating risk parameters, institutions should identify any deficiencies that may lead to a bias in the quantification of risk parameters, or to increased uncertainty that is not fully captured by the general estimation error.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Treatment of deficiencies and margin of conservatism",
+    "keywords": [
+      "risk parameters",
+      "deficiencies",
+      "bias",
+      "uncertainty"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "6_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "cbf353fd",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Within category B, institutions should also consider whether or not any changes in legal environment may lead to changes in default or loss rates, in particular changes to bankruptcy law and any regulations related to legal collection processes.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Treatment of deficiencies and margin of conservatism",
+    "keywords": [
+      "category B",
+      "legal environment",
+      "default rates",
+      "loss rates",
+      "bankruptcy law"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "6_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2638dcf8",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Categories A and B are expected to be non-overlapping, i.e. each identified deficiency should be classified in only one of the categories.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Treatment of deficiencies and margin of conservatism",
+    "keywords": [
+      "Categories A",
+      "Category B",
+      "non-overlapping",
+      "deficiency classification"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "6_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "00ae4ff5",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ004",
+    "requirement": "As a general principle, institutions are required to address the identified deficiencies via appropriate adjustments and Mo C.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Treatment of deficiencies and margin of conservatism",
+    "keywords": [
+      "deficiencies",
+      "adjustments",
+      "Mo C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "6_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e7e29588",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should be able to demonstrate that this objective has actually been achieved by a certain adjustment.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Not specified",
+    "keywords": [
+      "adjustments",
+      "demonstrate",
+      "objective"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "714e2f13",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "They should also document any adjustments that have been applied, and regularly monitor their adequacy.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Not specified",
+    "keywords": [
+      "document",
+      "adjustments",
+      "monitor"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f99e68f9",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Mo C should be applied on top of the best estimate of the risk parameter (i.e. a parameter after applying all appropriate adjustments).",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "Mo C",
+      "risk parameter",
+      "adjustments"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3199c68c",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Mo C is applied on top of the parameters defined in the master scale.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "Mo C",
+      "master scale",
+      "parameters"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "960aece4",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ005",
+    "requirement": "for own funds requirements calculation the final risk parameters, including Mo C, should be taken into account.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "own funds",
+      "risk parameters",
+      "Mo C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "52b5dc0c",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ006",
+    "requirement": "Mo C should be quantified for all deficiencies that could not be rectified by appropriate adjustment.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "Mo C",
+      "quantified",
+      "deficiencies"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b35c5c52",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ007",
+    "requirement": "Institutions should quantify Mo C related to the identified deficiencies in the same categories used to classify deficiencies (categories A and B).",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "Mo C",
+      "quantify",
+      "deficiencies",
+      "categories"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a0a06b62",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ008",
+    "requirement": "In addition, they should quantify a general estimation error and present it in a separate category (category C).",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "quantify",
+      "estimation error",
+      "category C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d43ec54d",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ009",
+    "requirement": "The GL require that the final Mo C to be added to the best estimate of the risk parameter be the sum of Mo C for categories A, B and C.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "Mo C",
+      "risk parameter",
+      "categories A, B, C",
+      "sum"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "6_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d25fd400",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "All methods used for quantification and aggregation of Mo C should be documented and regularly monitored.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not explicitly stated, but implied within the context of Mo C quantification and aggregation.",
+    "keywords": [
+      "Mo C",
+      "quantification",
+      "aggregation",
+      "documented",
+      "monitored"
+    ],
+    "requirement_type": "procedural",
+    "deadline": "Not specified",
+    "applies_to": "Financial institutions",
+    "chunk_id": "6_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f28a7a46",
+    "parent_chunk_id": 6,
+    "sub_chunk_index": 6
+  }
+]

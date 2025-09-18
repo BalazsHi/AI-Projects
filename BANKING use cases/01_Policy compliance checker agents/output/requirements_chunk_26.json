@@ -1,0 +1,306 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "The one-year default rate should be calculated at least monthly for all retail exposures, and at least quarterly for all other exposures.",
+    "category": "reporting",
+    "priority": "high",
+    "reference": "4.6",
+    "keywords": [
+      "default rate",
+      "calculation",
+      "retail exposures",
+      "other exposures",
+      "frequency"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "monthly (retail), quarterly (other)",
+    "applies_to": "financial institutions",
+    "chunk_id": "26_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ff9f27b1",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The one-year default rate should be calculated at least quarterly for all exposures.",
+    "category": "reporting",
+    "priority": "high",
+    "reference": "4.6",
+    "keywords": [
+      "default rate",
+      "calculation",
+      "exposures",
+      "frequency"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "quarterly",
+    "applies_to": "financial institutions",
+    "chunk_id": "26_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "08fccbf3",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Institutions should not estimate any future recoveries for the periods beyond the maximum length of the recovery process.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "5.6.3",
+    "keywords": [
+      "future recoveries",
+      "recovery process",
+      "estimation"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "26_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a216b928",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Netting of gains and losses would be allowed but only where this is consistent with the business model of the institution (subject to the assessment of the competent authority).",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "5.6.4",
+    "keywords": [
+      "netting",
+      "gains",
+      "losses",
+      "business model",
+      "competent authority"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "26_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8613ea28",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Some changes may still be necessary to comply with the more detailed requirements.",
+    "category": "compliance",
+    "priority": "medium",
+    "reference": "Final EBA GL on PD, LGD and defaulted exposures",
+    "keywords": [
+      "compliance",
+      "detailed requirements"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "26_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bd54f975",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The estimated LGD used to calculate capital requirements must not be less than zero.",
+    "category": "capital_adequacy|credit_risk",
+    "priority": "high",
+    "reference": "GL 10",
+    "keywords": [
+      "LGD",
+      "capital requirements",
+      "zero floor"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "26_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "82fef5a4",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Methodologies based purely on market data will no longer be allowed.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GL 10",
+    "keywords": [
+      "market data",
+      "LGD",
+      "methodologies"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "26_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bbf3636b",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Market data may be used only to supplement internal data that reflects the institution’s own experience.",
+    "category": "credit_risk",
+    "priority": "medium",
+    "reference": "GL 10",
+    "keywords": [
+      "market data",
+      "internal data",
+      "LGD"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "26_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ae010bf0",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "LGD in-default should comply with all requirements for LGD estimation, and therefore it should also reflect downturn conditions.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "LGD",
+      "in-default",
+      "downturn conditions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "26_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3f17d9b4",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The GL will apply from 1 January 2021, which in the EBA’s view gives sufficient time for institutions and competent authorities to implement and assess the changes to the rating systems.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "GL",
+      "application",
+      "implementation",
+      "assessment"
+    ],
+    "requirement_type": "procedural",
+    "deadline": "January 1, 2021",
+    "applies_to": "Institutions and competent authorities",
+    "chunk_id": "26_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7b7b1d71",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ002",
+    "requirement": "…the minimum requirements must also be met to receive permission to use the IRB Approach…",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "minimum requirements",
+      "IRB Approach",
+      "permission"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions using the IRB Approach",
+    "chunk_id": "26_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8ddfad3d",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ001",
+    "requirement": "In order to receive permission to use the IRB Approach all minimum requirements have to be met.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "CRR",
+    "keywords": [
+      "IRB Approach",
+      "minimum requirements",
+      "permission"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "26_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "45c021ca",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The models should serve purposes other than just calculating capital requirements.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Section 8.3",
+    "keywords": [
+      "models",
+      "capital requirements"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "26_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "02940035",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ002",
+    "requirement": "These GL will be complementary to the revised Basel framework and will apply to all models that remain within the scope of the IRB Approach.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "Section 8.3",
+    "keywords": [
+      "Basel framework",
+      "IRB Approach",
+      "models"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions and competent authorities",
+    "chunk_id": "26_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "74f9bb33",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ003",
+    "requirement": "The GL will be applicable to all institutions and competent authorities, including the SSM.",
+    "category": "compliance",
+    "priority": "high",
+    "reference": "Section 8.3",
+    "keywords": [
+      "institutions",
+      "competent authorities",
+      "SSM"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions and competent authorities",
+    "chunk_id": "26_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "dcf8a985",
+    "parent_chunk_id": 26,
+    "sub_chunk_index": 10
+  }
+]

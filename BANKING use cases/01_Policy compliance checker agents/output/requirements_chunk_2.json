@@ -1,0 +1,74 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "For LGD and LGD in-default, institutions also have to consider downturn conditions and use the estimates reflective of downturn conditions if these are more conservative than those based on the long-run average LGD.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "LGD",
+      "downturn conditions",
+      "estimates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 2,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "45100066"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Finally, for risk parameters for defaulted exposures, all requirements specified for LGD in Chapter 6 apply, unless explicitly specified otherwise.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "risk parameters",
+      "defaulted exposures",
+      "LGD"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 2,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5ea2c3dc"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "The risk parameters have to be regularly reviewed to ensure that adequate estimates are used both for own funds requirements calculation and for internal purposes.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "risk parameters",
+      "regularly reviewed",
+      "own funds requirements"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 2,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "21f81b2b"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Where, as a result of such review, institutions identify a need to change the model, such changes should be implemented in accordance with the requirements specified for the estimation of risk parameters.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "model change",
+      "risk parameters",
+      "estimation"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 2,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "61318c9f"
+  }
+]

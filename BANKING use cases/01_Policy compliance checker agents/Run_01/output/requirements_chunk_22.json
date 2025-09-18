@@ -1,0 +1,78 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "For the purpose of considering the possible adverse change in economic conditions during the expected length of the recovery processes referred to in Article 54(2)(a) of the RTS on IRB assessment methodology the LGD in-default should reflect at least downturn conditions, where the estimates of LGD in-default that are appropriate for an economic downturn are more conservative than the long-run average LGD for defaulted exposures, referred to in paragraph 180.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Paragraph 189",
+    "keywords": [
+      "LGD in-default",
+      "downturn conditions",
+      "economic conditions",
+      "IRB assessment methodology"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 22,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "82daeae0"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "For the purpose of Article 181(1)(h) of Regulation (EU) No 575/2013 the LGD in-default should be increased above the level referred to in paragraph 189 where this is necessary to ensure that the difference between the LGD in-default and the ELBE covers for any increase of loss rate caused by possible additional unexpected losses during the recovery period.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Paragraph 190",
+    "keywords": [
+      "LGD in-default",
+      "ELBE",
+      "loss rate",
+      "recovery period"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 22,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "96cf7dd3"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "For the purpose of ensuring that the LGD in-default is higher than the ELBE, or is in exceptional cases equal to the ELBE for individual exposures, in accordance with Article 54(2)(d) of the RTS on IRB assessment methodology institutions should analyse and correct the LGD in-default in those situations where the ELBE was obtained using specific credit risk adjustments, in accordance with paragraph 186, and is above the LGD in-default obtained --- --- GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 95 through direct estimation in accordance with Article 54(1)(a) of the RTS on IRB assessment methodology.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Paragraph 191",
+    "keywords": [
+      "LGD in-default",
+      "ELBE",
+      "credit risk adjustments",
+      "IRB assessment methodology"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 22,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ff99a380"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "To the extent that the reasons for overriding the outputs of ELBE estimation are relevant also to LGD in-default a consistent override should also be applied to the assignment of LGD in-default in such a way that the add-on to the ELBE covers for any increase of loss rate caused by possible additional unexpected losses during the recovery period in accordance with",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Paragraph 192",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "loss rate",
+      "recovery period"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 22,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "486d6d22"
+  }
+]

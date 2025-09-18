@@ -1,0 +1,334 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should reclassify exposures from defaulted to non-defaulted status only when they have observed, during a probation period, a consistent improvement in the financial situation of an obligor, and hence subsequent classification back to defaulted status is less likely.",
+    "category": "credit_risk",
+    "priority": "medium",
+    "reference": "Guidelines on the application of the definition of default",
+    "keywords": [
+      "reclassify",
+      "defaulted",
+      "probation period",
+      "financial situation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "34_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2bb134be",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Information about all default events still has to be stored by institutions.",
+    "category": "operational",
+    "priority": "high",
+    "reference": "Changes to paragraph 101",
+    "keywords": [
+      "default events",
+      "stored",
+      "information"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "34_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bf1da439",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Information about all default events still has to be stored by institutions.",
+    "category": "operational",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "default events",
+      "storage"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "34_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bf1da439",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Consistency with PD estimation should be ensured by the use of the same database of default events.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "PD estimation",
+      "database",
+      "default events"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "34_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "799330a8",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ003",
+    "requirement": "The proposed 0% floor on realised LGDs has been retained. This floor is applicable in the calculation of long-run average LGD in order to ensure the appropriate calibration of the parameter.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "0% floor",
+      "realised LGDs",
+      "long-run average LGD",
+      "calibration"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "34_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "9dbed650",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The GL require institutions to use consistent methodologies for the estimation of LGD for defaulted and non-defaulted exposures, as in either cases the methodology should be appropriate for the particular type of exposures as well as the internal collection and recovery policies of the institution.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "LGD",
+      "defaulted",
+      "non-defaulted",
+      "exposures",
+      "methodologies",
+      "estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "34_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3cff84e9",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The GL also explicitly require that all relevant risk drivers should be used, including those that may become relevant after the date of default.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "risk drivers",
+      "relevant",
+      "default"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "34_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2f1b1bdf",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The estimation of parameters for defaulted exposures is required only of those institutions that use LGD models for non-defaulted exposures.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "LGD models",
+      "defaulted exposures",
+      "estimation"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions using LGD models for non-defaulted exposures",
+    "chunk_id": "34_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "84bc0eaa",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The CRR requires the calculation of IRB excess/shortfall in order to ensure that the own funds reflect the expected loss estimated in accordance with prudential rules even where the accounting provisions do not meet prudential",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "IRB excess/shortfall",
+      "own funds",
+      "expected loss"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "34_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "019e9a11",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Where all identified uncertainty and potential unexpected losses are sufficiently covered by the downturn adjustment and Mo C, the component of the add-on reflecting potential additional losses may be zero. However, these additional potential sources of unexpected losses have in any case to be analysed by the institution and reflected adequately where necessary",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "unexpected losses",
+      "downturn adjustment",
+      "Mo C",
+      "analysis"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "34_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1c32cb46",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "As LGD in-default and ELBE are in fact part of the LGD model, all the requirements for such models specified in the CRR have to be met.",
+    "category": "risk_management|credit_risk|compliance",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "LGD",
+      "ELBE",
+      "LGD model",
+      "CRR",
+      "requirements"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "34_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "92655fdb",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ002",
+    "requirement": "institutions should also make sure that estimates of future recoveries on incomplete recovery processes are well justified and prudent in order to avoid any distortions in the final estimates of risk parameters due to the use of uncertain information.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "estimates",
+      "future recoveries",
+      "incomplete recovery processes",
+      "justified",
+      "prudent",
+      "risk parameters"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "34_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3308ca39",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Where an adjustment to reflect current economic conditions is necessary, this may be done on the basis of a sample of data reflecting current economic conditions, for instance by selecting the most recent observations. However, this limited sample cannot be used as the sole basis for the estimates.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "Changes to section 7.3.2.2",
+    "keywords": [
+      "economic conditions",
+      "estimates",
+      "data"
+    ],
+    "requirement_type": "conditional|procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "34_SUB8",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "415c88d6",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 8
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The analysis of economic conditions should be consistent for the purpose of ELBE (to reflect current economic conditions) and for the purpose of LGD and LGD in-default (to reflect downturn conditions).",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Changes to section 7.3.2.2",
+    "keywords": [
+      "economic conditions",
+      "ELBE",
+      "LGD",
+      "consistency"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "34_SUB8",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8a3d201c",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 8
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Models for accounting provisions can only be used for the purpose of ELBE estimation where these models meet all the requirements of the CRR and of these GL, in particular where the definition of economic loss underlying the estimates is consistent with the concept specified in these GL.",
+    "category": "credit_risk|capital_adequacy|compliance",
+    "priority": "high",
+    "reference": "As specified in the GL",
+    "keywords": [
+      "ELBE estimation",
+      "CRR",
+      "economic loss",
+      "accounting provisions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions using accounting provisions for ELBE estimation",
+    "chunk_id": "34_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "21441307",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ002",
+    "requirement": "In this situation the final ELBE has to reflect the appropriate definition of economic loss.",
+    "category": "credit_risk|capital_adequacy|compliance",
+    "priority": "high",
+    "reference": "Furthermore, in this situation",
+    "keywords": [
+      "ELBE",
+      "economic loss",
+      "accounting provisions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions using accounting provisions for ELBE estimation",
+    "chunk_id": "34_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5c3d2eaf",
+    "parent_chunk_id": 34,
+    "sub_chunk_index": 9
+  }
+]

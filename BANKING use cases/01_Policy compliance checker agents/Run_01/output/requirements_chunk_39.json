@@ -1,0 +1,37 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "reviews of estimates are performed at least annually.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Article 179(1)(c) of the CRR",
+    "keywords": [
+      "reviews",
+      "estimates",
+      "annually"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "annually",
+    "applies_to": "financial institutions",
+    "chunk_id": 39,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1dbac861"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Approval of material model changes will be required in accordance with Regulation (EU) No 529/2014 of 12 March 2014.",
+    "category": "governance",
+    "priority": "high",
+    "reference": "Regulation (EU) No 529/2014",
+    "keywords": [
+      "approval",
+      "material model changes"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": 39,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f171cada"
+  }
+]

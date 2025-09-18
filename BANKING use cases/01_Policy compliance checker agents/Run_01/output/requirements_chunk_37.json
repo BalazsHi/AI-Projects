@@ -1,0 +1,127 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions are able to identify these triggers in order to ensure that the risk estimates used in the calculation of own funds requirements are adequate and that any deficiencies are remedied without undue delay.",
+    "category": "risk_management|capital_adequacy",
+    "priority": "high",
+    "reference": "Section 8.1",
+    "keywords": [
+      "risk estimates",
+      "own funds requirements",
+      "deficiencies",
+      "remedied"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "92795bb8"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Any changes in the institution’s policy on how and when this additional conservatism should be applied can be considered a change to the rating system and should be notified to the competent authority in accordance with the Regulation (EU) No 529/2014.",
+    "category": "governance|reporting",
+    "priority": "high",
+    "reference": "Section 8.1",
+    "keywords": [
+      "additional conservatism",
+      "rating system",
+      "notified",
+      "competent authority"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5a6e06b5"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Institutions should take appropriate steps as a result of the review of estimates, depending on the nature and severity of the identified weaknesses.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Chapter 9",
+    "keywords": [
+      "review of estimates",
+      "weaknesses"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "97901490"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Institutions are requested to specify the situations in which reviews are to be performed more frequently than annually in their internal policies.",
+    "category": "governance",
+    "priority": "medium",
+    "reference": "Chapter 9",
+    "keywords": [
+      "reviews",
+      "internal policies",
+      "annually"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8cf7ab4e"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "Institutions perform ad hoc reviews when necessary, in particular whenever a significant change in",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Chapter 9",
+    "keywords": [
+      "ad hoc reviews",
+      "significant change"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c4ad21ba"
+  },
+  {
+    "id": "REQ006",
+    "requirement": "the reviews have to be performed at least on an annual basis.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Article 179(1)(c)",
+    "keywords": [
+      "reviews",
+      "annual basis"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d667b58b"
+  },
+  {
+    "id": "REQ007",
+    "requirement": "the reviews of estimates should be performed at least annually in accordance with Article 179(1)(c) of the CRR.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Chapter 9",
+    "keywords": [
+      "reviews of estimates",
+      "annually",
+      "Article 179(1)(c)"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 37,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d70ebd74"
+  }
+]

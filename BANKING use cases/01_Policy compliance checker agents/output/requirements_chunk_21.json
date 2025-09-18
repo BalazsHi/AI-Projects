@@ -1,0 +1,452 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "In this case institutions should at least compare this long-run average LGD with the average LGD estimate applied to the same set of observations as those used for calculating the long-run average LGD and, where necessary, correct the individual LGD estimates for the application portfolio accordingly, for instance by using a scaling factor.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Article 169(3)",
+    "keywords": [
+      "LGD",
+      "estimation",
+      "correction",
+      "scaling factor"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "511afa2e"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Where realised values are higher than estimated values at the level of calibration segment, institutions should correct the estimates upwards or readjust their estimation in order to reflect their loss experience.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Article 169(3)",
+    "keywords": [
+      "LGD",
+      "realised values",
+      "estimation",
+      "correction",
+      "loss experience"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "32d4c077"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Where institutions observe extremely high values of realised LGDs much above 100%, especially for exposures with small outstanding amounts at the moment of default, they should identify relevant risk drivers to differentiate these observations and adequately reflect these specific characteristics in the assignment to grades or pool.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "162",
+    "keywords": [
+      "LGD",
+      "risk drivers",
+      "grades",
+      "pool",
+      "differentiation"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6a765c6f"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "In order to comply with the requirement of Article 181(1)(a) of Regulation (EU) No 575/2013 to use all observed defaults in LGD quantification, institutions should not exclude any defaults observed in the historical observation period that fall within the scope of application of the LGD model.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "163",
+    "keywords": [
+      "LGD",
+      "defaults",
+      "historical observation period",
+      "exclusion"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "897b2c03"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "In the analysis of the representativeness of data in accordance with section 4.2.4, institutions should take into account not only the current characteristics of the portfolio but also, where relevant, the changes to the structure of the portfolio that are expected to happen in the foreseeable future due to specific actions or decisions that have already been taken.",
+    "category": "credit_risk",
+    "priority": "medium",
+    "reference": "164",
+    "keywords": [
+      "data",
+      "representativeness",
+      "portfolio",
+      "changes",
+      "foreseeable future"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "481e5039"
+  },
+  {
+    "id": "REQ006",
+    "requirement": "Adjustments made on the basis of the changes expected in the foreseeable future should not lead to a decrease in the estimates of LGD parameter.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "164",
+    "keywords": [
+      "LGD",
+      "estimates",
+      "adjustments",
+      "decrease"
+    ],
+    "requirement_type": "prohibitive",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "80bc78be"
+  },
+  {
+    "id": "REQ007",
+    "requirement": "Institutions that have obtained permission to use own estimates of LGD in accordance with Article 143(2) of Regulation (EU) No 575/2013, should assign an ELBE estimate and an LGD in-default estimate to each defaulted exposure within the range of application of the rating system subject to such permission.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "165",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "defaulted exposure",
+      "rating system"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f391bfb2"
+  },
+  {
+    "id": "REQ008",
+    "requirement": "Institutions should estimate ELBE and LGD in-default for each of the facility grades of the distinct facility rating scale or for each of the pools that are used within the rating system.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "166",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "facility grades",
+      "rating scale",
+      "pools"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1c90bec3"
+  },
+  {
+    "id": "REQ009",
+    "requirement": "For the purposes of ELBE and LGD in-default estimation, and unless otherwise specified in this Chapter, institutions should use the same estimation methods used for estimating LGD on non-defaulted exposures, as set out in Chapter 6.",
+    "category": "credit_risk",
+    "priority": "medium",
+    "reference": "167",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "estimation methods",
+      "LGD",
+      "non-defaulted exposures"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "4b60922a"
+  },
+  {
+    "id": "REQ010",
+    "requirement": "Institutions should take into consideration all relevant post-default information in their ELBE and LGD in-default estimates in a timely manner, in particular where events from the recovery process invalidate the recovery expectations underlying the most recent estimates.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "168",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "post-default information",
+      "recovery process",
+      "recovery expectations"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bc0d5ef8"
+  },
+  {
+    "id": "REQ011",
+    "requirement": "Institutions should assess and duly justify situations where the estimates of LGD in- default shortly after the date of default systematically deviate from the LGD estimates immediately before the date of default at the facility grade or pool, where these deviations do not stem from the use of risk drivers that are applicable only from the date of default onwards.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "169",
+    "keywords": [
+      "LGD in-default",
+      "LGD estimates",
+      "deviation",
+      "risk drivers"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "9d6a62b6"
+  },
+  {
+    "id": "REQ012",
+    "requirement": "Institutions should perform back-testing and benchmarking of their ELBE and LGD in- default estimates in accordance with points (b) and (c) respectively, of Article 185 of Regulation (EU) No 575/2013.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "170",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "back-testing",
+      "benchmarking"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bcc09c65"
+  },
+  {
+    "id": "REQ013",
+    "requirement": "For the purposes of ELBE and LGD in-default estimation, institutions should set the reference dates to be used for grouping defaulted exposures in accordance with the recovery patterns observed.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "171",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "reference dates",
+      "defaulted exposures",
+      "recovery patterns"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "655a74d5"
+  },
+  {
+    "id": "REQ014",
+    "requirement": "These reference dates should be used in the estimation of ELBE and LGD in- default instead of the date of default.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "171",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "reference dates",
+      "date of default"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8507f91a"
+  },
+  {
+    "id": "REQ015",
+    "requirement": "For the purposes of setting the reference dates institutions should use information only on closed recovery processes taking into account costs and recoveries only if observed up to the date of estimation.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "171",
+    "keywords": [
+      "reference dates",
+      "closed recovery processes",
+      "costs",
+      "recoveries",
+      "date of estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "227aca43"
+  },
+  {
+    "id": "REQ016",
+    "requirement": "For the purposes of ELBE and LGD in-default estimation the same defaulted exposures in the RDS should be used at all relevant reference dates considered in the model.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "173",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "defaulted exposures",
+      "RDS",
+      "reference dates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "fea43659"
+  },
+  {
+    "id": "REQ017",
+    "requirement": "Institutions should monitor on a regular basis potential changes in the recovery patterns and in the relevant recovery policies which may affect the estimation of ELBE and LGD in- default at each reference date.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "174",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "recovery patterns",
+      "recovery policies",
+      "reference date"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "79f68bec"
+  },
+  {
+    "id": "REQ018",
+    "requirement": "For the purposes of ELBE and LGD in-default estimation, institutions should use the same RDS referred to in section 6.1.2, complemented by any relevant information observed during the recovery process and at each reference date, specified in accordance with paragraphs 171 to 174 and, in particular at least the following additional information:",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "175",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "RDS",
+      "recovery process",
+      "reference date"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "5409eabb"
+  },
+  {
+    "id": "REQ019",
+    "requirement": "For the purpose of ELBE and LGD in-default estimation, institutions should analyse the potential risk drivers referred to in paragraph 121 not only until the moment of default but also after the date of default and until the date of termination of the recovery process.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "177",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "risk drivers",
+      "date of default",
+      "recovery process"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2d64fbf3"
+  },
+  {
+    "id": "REQ020",
+    "requirement": "Institutions should analyse also other potential risk drivers that might become relevant after the date of default, including in particular the expected length of the recovery process and the status of the recovery process.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "177",
+    "keywords": [
+      "risk drivers",
+      "date of default",
+      "recovery process",
+      "expected length"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e9c00641"
+  },
+  {
+    "id": "REQ021",
+    "requirement": "Institutions should use the values of risk drivers as well as the values of collateral adequate to the reference dates specified in accordance with paragraphs 171 to 174.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "177",
+    "keywords": [
+      "risk drivers",
+      "collateral",
+      "reference dates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "185f9c2e"
+  },
+  {
+    "id": "REQ022",
+    "requirement": "For the purposes of ELBE and LGD in-default estimation, institutions should calculate the realised LGDs for defaulted exposures, in accordance with section 6.3.1 with the only difference that this should be done with regard to each of the reference dates specified in accordance with paragraphs 171 to 174, rather than the date of default.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "178",
+    "keywords": [
+      "ELBE",
+      "LGD in-default",
+      "realised LGDs",
+      "reference dates",
+      "date of default"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e85478a9"
+  },
+  {
+    "id": "REQ023",
+    "requirement": "In the calculation of the realised LGD at a given reference date institutions should include all fees and interest capitalised before the reference date and they should discount all subsequent cash flows and drawings to the reference date.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "178",
+    "keywords": [
+      "realised LGD",
+      "reference date",
+      "fees",
+      "interest",
+      "cash flows"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 21,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d2baa2e9"
+  }
+]

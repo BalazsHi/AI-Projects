@@ -1,0 +1,124 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should specify internal policies for changes of models and estimates of risk parameters used within a rating system.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Paragraph 215",
+    "keywords": [
+      "internal policies",
+      "models",
+      "estimates",
+      "risk parameters",
+      "rating system"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 24,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b4cf35da"
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Such policies should provide that changes in the models should be made as a result of at least the following: (a) regular review of estimates; (b) independent validation; (c) changes in the legal environment; (d) internal audit review; (e) competent authority review.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Paragraph 215",
+    "keywords": [
+      "changes in models",
+      "regular review",
+      "independent validation",
+      "legal environment",
+      "internal audit",
+      "competent authority review"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 24,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3141d909"
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Where material deficiencies are identified as a result of the procedures referred to in paragraph 215 institutions should take appropriate actions depending on the severity of the deficiency and apply a Mo C in accordance with section 4.4.3.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Paragraph 216",
+    "keywords": [
+      "material deficiencies",
+      "appropriate actions",
+      "severity of deficiency",
+      "Mo C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 24,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ee6f97c4"
+  },
+  {
+    "id": "REQ004",
+    "requirement": "For the purpose of regular reviews of estimates, institutions should have a framework in place which includes at least the following elements: (a) a minimum scope and frequency of analyses to be performed, including predefined metrics chosen by the institution to test data representativeness, model performance, its predictive power and stability; (b) predefined standards, including predefined thresholds and significance levels for the relevant metrics; (c) predefined actions to be taken in case of adverse results of the review, depending on the severity of the deficiency.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Paragraph 217",
+    "keywords": [
+      "regular reviews",
+      "framework",
+      "minimum scope",
+      "frequency of analyses",
+      "predefined metrics",
+      "predefined standards",
+      "predefined thresholds",
+      "predefined actions"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 24,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "97f88401"
+  },
+  {
+    "id": "REQ005",
+    "requirement": "The reviews of estimates to be performed at least annually in accordance with Article 179(1)(c) of Regulation (EU) No 575/2013 should be performed taking into account the metrics, standards and thresholds defined by the institution in accordance with paragraph 217.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Paragraph 218",
+    "keywords": [
+      "reviews of estimates",
+      "annually",
+      "metrics",
+      "standards",
+      "thresholds"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "Annually",
+    "applies_to": "Institutions",
+    "chunk_id": 24,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e04259b8"
+  },
+  {
+    "id": "REQ006",
+    "requirement": "The scope of such reviews should comprise at least the following elements: (a) an analysis of data representativeness, including all of the following: (i) an analysis of potential differences between the RDS used to quantify the risk parameter and the application portfolio, including the analysis of any changes in the portfolio or any structural breaks, in the manners of analysing the representativeness described in section 4.2.4; (ii) an analysis of potential differences between the RDS used to develop the model and the application portfolio; for this purpose institutions should:  perform the analysis set out in paragraphs 24, 25, and 26;  consider that data used for model development is sufficiently representative in terms of points (a) and (b) of paragraph 21 if the performance of the model in the sense of paragraph 218(b) is sound;  perform the analysis set out in paragraphs 22 and 23 where the performance of the model in the sense of paragraph 218(b) is deteriorating; (b) an analysis of the performance of the model and its stability over time, which should have both of the following characteristics: (i) the analysis should identify any potential deterioration of the model performance, including the model’s discriminatory power, through the comparison of its performance at the time of the development against its performance on each subsequent observation period of the extended data set as well as against the predefined thresholds; this analysis should be performed on relevant subsets, for instance with and without delinquency status in the case of PD estimates, or for various recovery scenarios in the case of LGD estimates; (ii) the analysis should be performed with regard to the whole application portfolio, without any data adjustments or exclusions performed in model development; for comparison purposes, the performance at the time of development should also be obtained for the whole application portfolio, prior to any data adjustments or exclusions; (c) an analysis of the predictive power of the model, including at least: (i) an analysis of whether the inclusion of the most recent data in the dataset used to estimate risk parameters leads to materially different risk estimates and in particular:  for PD, whether including the most recent data leads to a significant change in the long-run average default rate; this analysis should take into account the appropriate redefinition of the period of likely range of --- --- GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES 102 variability of default rates and of the mix of good and bad years, if necessary;  for LGD, whether including the most recent data leads to a significant change in the long-run average LGD or downturn LGD; (ii) a back-testing analysis, which should include a comparison of the estimates used for the calculation of own funds requirements against observed outcomes for each grade or pool; for this purpose institutions may take into account the results of back-testing performed as part of the internal validation in accordance with",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Paragraph 218",
+    "keywords": [
+      "analysis of data representativeness",
+      "analysis of model performance",
+      "analysis of predictive power",
+      "back-testing analysis"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": 24,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "013b3a4a"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "that the estimates should reflect economic downturn if this is more conservative than the long-run average also applies.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Article 181(1)(b)",
+    "keywords": [
+      "estimates",
+      "economic downturn",
+      "conservative"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 36,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "eea388a5"
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should specify conditions under which the analyses referred to in paragraph 218 should be performed more frequently than annually, such as major changes in the risk profile of the institution, credit policies or relevant IT systems.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Paragraph 219",
+    "keywords": [
+      "analyses",
+      "risk profile",
+      "credit policies",
+      "IT systems"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "fa24b43f",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should perform the review of the PD or LGD model whenever they observe significant change in economic conditions as compared with the economic conditions underlying the dataset used for the purpose of model development.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Paragraph 219",
+    "keywords": [
+      "review",
+      "PD",
+      "LGD",
+      "economic conditions"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "0f45e72d",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ003",
+    "requirement": "For the purpose of performing the tasks referred to in Article 190(2) of Regulation (EU) No 575/2013 institutions should define a regular cycle for the full review of the rating systems, taking into consideration their materiality, and covering all aspects of model development, quantification of risk parameters and, where applicable, the estimation of model components.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Paragraph 220",
+    "keywords": [
+      "review",
+      "rating systems",
+      "model development",
+      "risk parameters"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e9af6f1f",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ004",
+    "requirement": "Where the results of this review recommend changes to model design, appropriate actions should be taken following the results from this analysis.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Paragraph 220",
+    "keywords": [
+      "review",
+      "model design",
+      "actions"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b40df8d0",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ005",
+    "requirement": "For the purpose of the review specified in paragraphs 217 to 220 institutions should apply consistent policies for data adjustments and exclusions and ensure that any differences in the policies applied to the relevant datasets are justified and do not distort the results of the review.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Paragraph 221",
+    "keywords": [
+      "review",
+      "data adjustments",
+      "data exclusions",
+      "policies"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d72352bb",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "In general, most competent authorities (CAs) confirm the requirement that conservatism should be applied for data and model issues.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "PD estimation 23-35",
+    "keywords": [
+      "conservatism",
+      "data",
+      "model issues"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Competent authorities",
+    "chunk_id": "25_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f9caf858",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should generally include (i) good and bad economic periods, (ii) periods when higher credit losses are experienced, (iii) at least one recession period, (iv) a complete economic cycle (good and bad years), or (v) specific periods in the datasets (e.g. 1991–2008).",
+    "category": "credit_risk",
+    "priority": "medium",
+    "reference": "64-67",
+    "keywords": [
+      "historical observation period",
+      "economic periods",
+      "recession period",
+      "economic cycle"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "eab0e455",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ002",
+    "requirement": "In two Member States, there is a requirement that there should be risk drivers or rating criteria on some key groups of variables (such as characteristics of the borrower, terms of the transaction, collateral, unpaid amounts, etc).",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "75-79",
+    "keywords": [
+      "risk drivers",
+      "rating criteria",
+      "key groups of variables"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions in two Member States",
+    "chunk_id": "25_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "38ff7700",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ003",
+    "requirement": "Related rules in some Member States require that the number of pools and grades should be high enough to allow adequate quantification and validation.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "75-79",
+    "keywords": [
+      "number of pools",
+      "number of grades",
+      "quantification",
+      "validation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions in some Member States",
+    "chunk_id": "25_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a54ffc07",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ004",
+    "requirement": "In one Member State, the concentration across the rating scale should be assessed by the Hirschman-Herfindahl index.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "75-79",
+    "keywords": [
+      "concentration",
+      "rating scale",
+      "Hirschman-Herfindahl index"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions in one Member State",
+    "chunk_id": "25_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a14f7346",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ005",
+    "requirement": "In another Member State, the concentration in one grade should not be greater than 30% unless the grade covers a reasonably narrow PD band",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "75-79",
+    "keywords": [
+      "concentration",
+      "grade",
+      "PD band"
+    ],
+    "requirement_type": "quantitative",
+    "deadline": null,
+    "applies_to": "Institutions in another Member State",
+    "chunk_id": "25_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "01a13856",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "One CA publicly requires ratings to be TTC.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "Rating philosophy",
+    "keywords": [
+      "ratings",
+      "TTC"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions in the jurisdiction of the CA",
+    "chunk_id": "25_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "cbc27892",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Around one third of the Member States have rules on this topic, some being public and binding, and some non- public. These rules usually mention the requirement of five years of representative data. When a shorter period is used, a Mo C must usually be added to address the data issue.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Calibration sample",
+    "keywords": [
+      "calibration",
+      "PD estimate",
+      "five years",
+      "representative data",
+      "Mo C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions in Member States with rules on calibration sample",
+    "chunk_id": "25_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "2d569bce",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ003",
+    "requirement": "one of them explicitly requires institutions to identify cure rates, and another imposes such a requirement where there is potentially a higher rate of technical defaults",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "LGD estimation",
+    "keywords": [
+      "cure rates",
+      "technical defaults"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions in jurisdictions with specific rules on cure rates",
+    "chunk_id": "25_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "176a18dd",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions have to estimate haircuts on the value of the collateral, taking into account the potential sale value and the time to sale.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "collateral",
+      "haircuts",
+      "sale value",
+      "time to sale"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c2494ff3",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions are required to ensure adequate segmentation within each portfolio to ensure a proper risk differentiation.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "140-144 Risk differentiation",
+    "keywords": [
+      "portfolio",
+      "segmentation",
+      "risk differentiation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "25_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d269a885",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Banks must establish internal standards for collateral management, consistent with those required under the Standardised Approach.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "145-155",
+    "keywords": [
+      "collateral management",
+      "internal standards",
+      "Standardised Approach"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Banks",
+    "chunk_id": "25_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d4a7862e",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ002",
+    "requirement": "One CA requires including the downturn period of the 1990 s.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "145-155",
+    "keywords": [
+      "downturn period",
+      "1990s"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "CAs",
+    "chunk_id": "25_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "57d5e852",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ003",
+    "requirement": "One CA requires specifically that Mo C should cover additionally significant differences between the debtors and their guarantors, positive correlations, and currency mismatches between exposures and collaterals.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "23-35",
+    "keywords": [
+      "Mo C",
+      "debtors",
+      "guarantors",
+      "correlations",
+      "currency mismatches"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "CAs",
+    "chunk_id": "25_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "fb3eda9f",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ004",
+    "requirement": "In one Member State, it is required that Mo C should be applied on top of the estimates, and another specifies that Mo C can be established as an LGD floor (e.g. 45% in the case of large corporates) or specific add-ons (e.g. stressing the probability of incompletes)",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "23-35",
+    "keywords": [
+      "Mo C",
+      "LGD floor",
+      "estimates",
+      "add-ons"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Member States",
+    "chunk_id": "25_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "83185a5c",
+    "parent_chunk_id": 25,
+    "sub_chunk_index": 7
+  }
+]

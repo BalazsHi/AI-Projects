@@ -1,0 +1,352 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "The GL do indeed require that the denominator of the one-year DR consists of the number of non- defaulted obligors with any credit obligation observed at the beginning of the one-year observation period.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "one-year DR",
+      "denominator",
+      "non-defaulted obligors",
+      "credit obligation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "157055ae",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "In accordance with the GL, institutions should consider splitting the obligors or exposures within the scope of application of a model into calibration segments where certain sub-portfolios represent fundamentally different levels of risk.",
+    "category": "risk_management|credit_risk",
+    "priority": "medium",
+    "reference": "GL",
+    "keywords": [
+      "calibration segments",
+      "risk",
+      "obligors",
+      "exposures"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "institutions",
+    "chunk_id": "28_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "4d2029c6",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The one-year default rate should be an objective measure calculated as set out in the GL.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "one-year default rate",
+      "objective measure",
+      "calculation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b92cff79",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should analyse whether migrations or sales of credit obligations lead to bias in the estimation of the PD and, if so, adjust this bias by applying an appropriate adjustment to the estimates and applying an Mo C as specified in section 4.4 of the GL.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "GL, section 4.4",
+    "keywords": [
+      "migrations",
+      "sales",
+      "bias",
+      "PD estimation",
+      "adjustment",
+      "Mo C"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "a701d565",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ003",
+    "requirement": "In any case, an appropriate adjustment should be documented and justified.",
+    "category": "risk_management|credit_risk|governance",
+    "priority": "medium",
+    "reference": null,
+    "keywords": [
+      "adjustment",
+      "documented",
+      "justified"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "cef41487",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions only to ‘evaluate the one- year DRs within the historical observation period at least quarterly’.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "GL on PD Estimation, LGD Estimation and Treatment Defaulted Exposures",
+    "keywords": [
+      "one-year DRs",
+      "historical observation period",
+      "quarterly"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "quarterly",
+    "applies_to": "Institutions",
+    "chunk_id": "28_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "926b554f",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Where institutions calibrate at the level of the grade or pool additional calibration tests should be performed at the level of the relevant calibration segment, and where institutions calibrate at the level of the calibration segment, additional calibration tests should be performed at the level of the grade or pool.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Section on calibration",
+    "keywords": [
+      "calibration",
+      "tests",
+      "grade",
+      "pool",
+      "calibration segment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions calibrating at grade/pool or calibration segment level",
+    "chunk_id": "28_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ffcdbafe",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "In order to perform these additional calibration tests, the long-run average DR at grade or pool level as well as at the level of the relevant calibration segment should be available.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Section on calibration",
+    "keywords": [
+      "calibration",
+      "tests",
+      "long-run average DR",
+      "grade",
+      "pool",
+      "calibration segment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions performing additional calibration tests",
+    "chunk_id": "28_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "e5285ad6",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "the historical observation period should cover at least five years.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Section 5.3.3",
+    "keywords": [
+      "historical observation period",
+      "five years"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "4d235c30",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ002",
+    "requirement": "the PD estimates should reflect the probability that the obligor will default at least once within a one-year horizon, and this default may happen at any moment during the one-year period.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "In relation to the comment that no specific treatment should be applied to short-term contracts because the maturity parameter contains a one-year floor",
+    "keywords": [
+      "PD estimates",
+      "default",
+      "one-year horizon"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB6",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7ecae4e4",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 6
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should analyse, inter alia, if there is bias due to the share of short-term and terminated contracts that cannot be observed during the relevant one-year periods.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "bias",
+      "short-term contracts",
+      "terminated contracts",
+      "one-year periods"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "28_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ad078ff2",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ002",
+    "requirement": "If such bias is found to exist, institutions should apply appropriate adjustments and Mo C.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "bias",
+      "adjustments",
+      "Mo C",
+      "short-term contracts"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "28_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "92b06c86",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The GL require the observed average DR to be calculated in the way specified in the GL in order to achieve a metric that is comparable across institutions, portfolios and calibration segments, as well as grades or pools.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 81",
+    "keywords": [
+      "observed average DR",
+      "calculation",
+      "comparable"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "financial institutions",
+    "chunk_id": "28_SUB8",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "bda8d28a",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 8
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The proposed approach must, naturally, incorporate qualitative aspects, which the GL already tried to achieve in the guidance on assessing whether the historical observation period is representative of the likely range of variability of the default rates of a given type of exposures.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Section 5.3.4",
+    "keywords": [
+      "qualitative aspects",
+      "historical observation period",
+      "default rates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "7deb7790",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The long-run average default rate should be calculated as the observed average of the one-year default rates in that period if the historical observation period is representative of the likely range of variability",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "Section 5.3.4",
+    "keywords": [
+      "long-run average default rate",
+      "one-year default rates",
+      "historical observation period"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "95d3308f",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ001",
+    "requirement": "It should be ensured that the adjusted long-run average default rate reflects the likely range of variability of default rates.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Section 5.3.4",
+    "keywords": [
+      "adjusted long-run average default rate",
+      "variability of default rates"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "f263fd73",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 10
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Upward adjustments should be made whenever there are no or insufficient bad years in the historical observation period.",
+    "category": "risk_management|credit_risk",
+    "priority": "high",
+    "reference": "Section 5.3.4",
+    "keywords": [
+      "upward adjustments",
+      "historical observation period",
+      "bad years"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "28_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "47c67f30",
+    "parent_chunk_id": 28,
+    "sub_chunk_index": 10
+  }
+]

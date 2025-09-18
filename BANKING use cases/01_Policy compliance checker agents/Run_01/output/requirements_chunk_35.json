@@ -1,0 +1,21 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "LGD in-default should be estimated under the same requirements as those for LGD for non-defaulted exposures specified in Article 181 of the CRR.",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "Article 181(1)(h) of the CRR",
+    "keywords": [
+      "LGD",
+      "in-default",
+      "non-defaulted exposures",
+      "estimation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": 35,
+    "extraction_method": "enhanced_llm",
+    "content_hash": "b6bc9f6b"
+  }
+]

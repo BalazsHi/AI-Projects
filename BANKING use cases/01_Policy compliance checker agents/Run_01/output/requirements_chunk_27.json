@@ -1,0 +1,300 @@
+[
+  {
+    "id": "REQ001",
+    "requirement": "Regardless of the chosen model design, all the requirements specified in the CRR and in the GL will have to be met.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "Not specified",
+    "keywords": [
+      "model design",
+      "CRR",
+      "GL",
+      "requirements"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions using models",
+    "chunk_id": "27_SUB1",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "95b0afab",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 1
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should analyse under the relevant categories.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "GL",
+    "keywords": [
+      "Mo C",
+      "analysis",
+      "categories"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1a6a20eb",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ002",
+    "requirement": "Institutions should also create for each rating system a complete list of all identified deficiencies, including the categories in which these deficiencies are classified.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "deficiencies",
+      "rating system",
+      "categories",
+      "list"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB2",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1cbe6e93",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 2
+  },
+  {
+    "id": "REQ001",
+    "requirement": "An Mo C stemming from category C (general estimation error) should be greater than zero, whereas an Mo C corresponding to category A or B should be greater than or equal to zero.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "paragraph 47",
+    "keywords": [
+      "Mo C",
+      "estimation error",
+      "category A",
+      "category B",
+      "category C"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "27_SUB3",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d7c29d13",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 3
+  },
+  {
+    "id": "REQ001",
+    "requirement": "All internal models will have to comply with the final GL as well as the other aspects of the new regulatory framework by end- 2020.",
+    "category": "risk_management|capital_adequacy|compliance",
+    "priority": "high",
+    "reference": "EBA Opinion on the implementation of the revision of the IRB Approach",
+    "keywords": [
+      "internal models",
+      "compliance",
+      "regulatory framework",
+      "end-2020"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": "end-2020",
+    "applies_to": "All financial institutions with internal models",
+    "chunk_id": "27_SUB4",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "ee89f699",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 4
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should identify all possible deficiencies.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "CRR",
+    "keywords": [
+      "deficiencies",
+      "identification"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8029681f",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The GL specify that institutions should quantify an Mo C at least for each of the categories A, B and C at the level of the calibration segment, by taking into account the requirement specified in section 4.4.3.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "GL section 4.4.3",
+    "keywords": [
+      "Mo C",
+      "quantify",
+      "categories A, B, C",
+      "calibration segment"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB5",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "358471a8",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 5
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The GL further require that the total Mo C at parameter level should be derived as the sum of the Mo Cs of the individual categories A, B and C.",
+    "category": "risk_management",
+    "priority": "high",
+    "reference": "section 4.4",
+    "keywords": [
+      "Mo C",
+      "parameter level",
+      "sum",
+      "categories A, B, C"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "27_SUB7",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "c6673cf9",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 7
+  },
+  {
+    "id": "REQ001",
+    "requirement": "The GL require that the final Mo C to be added to the best estimate of the risk parameter is the sum of the Mo Cs for categories A, B and C.",
+    "category": "capital_adequacy",
+    "priority": "high",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "Mo C",
+      "capital",
+      "categories",
+      "aggregation"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "27_SUB8",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "8637a4c5",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 8
+  },
+  {
+    "id": "REQ002",
+    "requirement": "All methods used for the quantification and aggregation of Mo Cs should be documented and regularly monitored.",
+    "category": "governance",
+    "priority": "medium",
+    "reference": "GUIDELINES ON PD ESTIMATION, LGD ESTIMATION AND TREATMENT DEFAULTED EXPOSURES",
+    "keywords": [
+      "Mo C",
+      "documentation",
+      "monitoring",
+      "quantification",
+      "aggregation"
+    ],
+    "requirement_type": "procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "27_SUB8",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "9a3c671b",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 8
+  },
+  {
+    "id": "REQ001",
+    "requirement": "Institutions should regularly monitor the level of the Mo C and, whenever possible, they should address the causes of errors or uncertainties, correct the models to ensure their full compliance with the CRR, and rectify data and methodological deficiencies.",
+    "category": "risk_management|compliance",
+    "priority": "high",
+    "reference": "final GL",
+    "keywords": [
+      "monitoring",
+      "Mo C",
+      "errors",
+      "uncertainties",
+      "CRR",
+      "deficiencies"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "6b87786d",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ002",
+    "requirement": "The GL specify that obligors with missing ratings should be assigned to a separate grade or pool for the purpose of the calculation of the one-year default rate (DR).",
+    "category": "credit_risk",
+    "priority": "high",
+    "reference": "GL",
+    "keywords": [
+      "missing ratings",
+      "obligors",
+      "separate grade",
+      "pool",
+      "default rate"
+    ],
+    "requirement_type": "mandatory",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "1e10e9c4",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ003",
+    "requirement": "If the institution performed calibration at grade or pool level, in which case additional calibration tests should be performed at portfolio level.",
+    "category": "risk_management",
+    "priority": "medium",
+    "reference": "GL",
+    "keywords": [
+      "calibration",
+      "grade level",
+      "pool level",
+      "portfolio level",
+      "calibration tests"
+    ],
+    "requirement_type": "conditional",
+    "deadline": null,
+    "applies_to": "Institutions",
+    "chunk_id": "27_SUB9",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "3f0c2b72",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 9
+  },
+  {
+    "id": "REQ001",
+    "requirement": "When the new information relates to the default of an obligor, the PD of the obligor should be set to 1 in all relevant IT systems in a timely manner.",
+    "category": "risk_management|credit_risk|operational",
+    "priority": "high",
+    "reference": "Changes to section 4.4.1",
+    "keywords": [
+      "default",
+      "obligor",
+      "PD",
+      "IT systems",
+      "timely manner"
+    ],
+    "requirement_type": "mandatory|procedural",
+    "deadline": null,
+    "applies_to": "Financial institutions",
+    "chunk_id": "27_SUB10",
+    "extraction_method": "enhanced_llm",
+    "content_hash": "d9df3cc2",
+    "parent_chunk_id": 27,
+    "sub_chunk_index": 10
+  }
+]
