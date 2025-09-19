@@ -1,0 +1,5 @@
+langchain
+langgraph
+langchain_google_genai
+python-docx
+google-search-results
